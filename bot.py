@@ -36,6 +36,10 @@ logger = logging.getLogger(__name__)
 
 
 def handle_sara_text_msg(update: Update, context: CallbackContext) -> None:
+    # let's keep Sara's mind safe
+    k_factor = 10
+    if not random.randint(0, k_factor) == k_factor:
+        return
     tags = list(gen_tags(update.message.text))
     if tags:
         logging.debug(f"tags: {tags}")
