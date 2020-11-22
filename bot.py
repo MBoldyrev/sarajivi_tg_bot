@@ -1,3 +1,4 @@
+import itertools
 import json
 import logging
 import pymorphy2
@@ -19,12 +20,33 @@ with open("secrets", "rb") as inp:
     SETTINGS = json.load(inp)
 
 
-def gen_tags(msg: str):
-    for word in re.findall(r"[а-яА-Я]+", msg):
+def iter_words(msg: str):
+    return re.findall(r"[а-яА-Я]+", msg)
+
+
+def iter_words_filter_tag(msg: str, tag_props=set()):
+    if not isinstance(tag_props, set):
+        tag_props = set(tag_props)
+    for word in iter_words(msg):
         morph_forms = MORPHER.parse(word)
         for morph_form in morph_forms:
-            if morph_form.tag.POS == "VERB" and morph_form.tag.person == "1per":
-                yield "#сара{}".format(morph_form.inflect({"impr"}).word)
+            if tag_props in morph_form.tag:
+                yield morph_form
+
+
+def tags_from_1per_verbs(msg: str):
+    for morph_form in iter_words_filter_tag(msg, ["VERB", "1per"]):
+        yield morph_form.inflect({"impr"}).word
+
+
+def tags_from_wish_verbs(msg: str):
+    wish_words = ("хочу", "надо", "нужно", "хотела")
+    for wish_word in wish_words:
+        for after_wish_word in re.findall(
+            r"(?<={})[^.?!]+".format(re.escape(wish_word)), msg
+        ):
+            for morph_form in iter_words_filter_tag(after_wish_word, ["INFN"]):
+                yield morph_form.inflect({"impr"}).word
 
 
 # Enable logging
@@ -35,15 +57,30 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def handle_sara_text_msg(update: Update, context: CallbackContext) -> None:
+def maybe_make_tag_reply(msg: str):
     # let's keep Sara's mind safe
-    k_factor = 10
-    if not random.randint(0, k_factor) == k_factor:
-        return
-    tags = list(gen_tags(update.message.text))
+    def sara_stay_safe(factor: float, generator):
+        if random.random() > factor:
+            return []  # lucky Sara
+        return generator(msg)
+
+    tags = list(
+        itertools.chain(
+            sara_stay_safe(0.1, tags_from_1per_verbs),
+            sara_stay_safe(1.0, tags_from_wish_verbs),
+        )
+    )
+
     if tags:
         logging.debug(f"tags: {tags}")
-        update.message.reply_text(random.choice(tags))
+        return "#сара{}".format(random.choice(tags))
+
+
+def handle_sara_text_msg(update: Update, context: CallbackContext) -> None:
+    maybe_tag = maybe_make_tag_reply(update.message.text)
+
+    if maybe_tag is not None:
+        update.message.reply_text(maybe_tag)
 
 
 def main():
