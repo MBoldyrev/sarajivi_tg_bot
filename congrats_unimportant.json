@@ -1,0 +1,3337 @@
+{
+  "2021.01.01": [
+    {
+      "name": "Новый год",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.01.02": [
+    {
+      "name": "День научной фантастики",
+      "decl_name": "днём научной фантастики",
+      "congrat": "/sara_s_dnem_nauchnoj_fantastiki"
+    }
+  ],
+  "2021.01.03": [
+    {
+      "name": "День рождения соломинки для коктейлей",
+      "decl_name": "днём рождения соломинки для коктейлей",
+      "congrat": "/sara_s_dnem_rozhdenija_solominki_dlja_koktejlej"
+    }
+  ],
+  "2021.01.04": [
+    {
+      "name": "День Ньютона",
+      "decl_name": "днём ньютона",
+      "congrat": "/sara_s_dnem_njutona"
+    }
+  ],
+  "2021.01.05": [
+    {
+      "name": "День работников социальной защиты в Беларуси",
+      "decl_name": "днём работников социальной защиты в беларуси",
+      "congrat": "/sara_s_dnem_rabotnikov_sotsialnoj_zaschity_v_belarusi"
+    }
+  ],
+  "2021.01.07": [
+    {
+      "name": "Рождество Христово у восточных христиан",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.01.11": [
+    {
+      "name": "Международный день «спасибо»",
+      "decl_name": "международным днём «спасибо»",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_spasibo"
+    },
+    {
+      "name": "День заповедников и национальных парков России",
+      "decl_name": "днём заповедников и национальных парков россии",
+      "congrat": "/sara_s_dnem_zapovednikov_i_natsionalnyh_parkov_rossii"
+    }
+  ],
+  "2021.01.14": [
+    {
+      "name": "Старый Новый год",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.01.16": [
+    {
+      "name": "Всемирный день «The Beatles»",
+      "decl_name": "всемирным днём «the beatles»",
+      "congrat": "/sara_s_vsemirnym_dnem_the_beatles"
+    },
+    {
+      "name": "День Ледовара",
+      "decl_name": "днём ледовара",
+      "congrat": "/sara_s_dnem_ledovara"
+    }
+  ],
+  "2021.01.17": [
+    {
+      "name": "Всемирный день снега (Международный день зимних видов спорта)",
+      "decl_name": "всемирным днём снега (международный день зимних видов спорта)",
+      "congrat": "/sara_s_vsemirnym_dnem_snega_mezhdunarodnyj_den_zimnih_vidov_sporta"
+    },
+    {
+      "name": "Всемирный день религии",
+      "decl_name": "всемирным днём религии",
+      "congrat": "/sara_s_vsemirnym_dnem_religii"
+    }
+  ],
+  "2021.01.19": [
+    {
+      "name": "День спасателя Беларуси",
+      "decl_name": "днём спасателя беларуси",
+      "congrat": "/sara_s_dnem_spasatelja_belarusi"
+    }
+  ],
+  "2021.01.20": [
+    {
+      "name": "День Республики Крым",
+      "decl_name": "днём республики крым",
+      "congrat": "/sara_s_dnem_respubliki_krym"
+    }
+  ],
+  "2021.01.21": [
+    {
+      "name": "Международный день объятий",
+      "decl_name": "международным днём объятий",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_objatij"
+    }
+  ],
+  "2021.01.23": [
+    {
+      "name": "День ручного письма",
+      "decl_name": "днём ручного письма",
+      "congrat": "/sara_s_dnem_ruchnogo_pisma"
+    }
+  ],
+  "2021.01.24": [
+    {
+      "name": "Международный день эскимо",
+      "decl_name": "международным днём эскимо",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_eskimo"
+    }
+  ],
+  "2021.01.25": [
+    {
+      "name": "День студента (Татьянин день)",
+      "decl_name": "днём студента (татьянин днём)",
+      "congrat": "/sara_s_dnem_studenta_tatjanin_dnem"
+    },
+    {
+      "name": "Киберпонедельник в России",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.01.26": [
+    {
+      "name": "Международный день таможенника",
+      "decl_name": "международным днём таможенника",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_tamozhennika"
+    }
+  ],
+  "2021.01.27": [
+    {
+      "name": "День полного освобождения Ленинграда от фашистской блокады",
+      "decl_name": "днём полного освобождения ленинграда от фашистской блокады",
+      "congrat": "/sara_s_dnem_polnogo_osvobozhdenija_leningrada_ot_fashistskoj_blokady"
+    },
+    {
+      "name": "Международный день памяти жертв Холокоста",
+      "decl_name": "международным днём памяти жертв холокоста",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_pamjati_zhertv_holokosta"
+    }
+  ],
+  "2021.01.28": [
+    {
+      "name": "Международный день защиты персональных данных",
+      "decl_name": "международным днём защиты персональных данных",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zaschity_personalnyh_dannyh"
+    },
+    {
+      "name": "Новый год плодовых деревьев (Ту би-шват)",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.01.29": [
+    {
+      "name": "День мобилизации против угрозы ядерной войны",
+      "decl_name": "днём мобилизации против угрозы ядерной войны",
+      "congrat": "/sara_s_dnem_mobilizatsii_protiv_ugrozy_jadernoj_vojny"
+    }
+  ],
+  "2021.01.31": [
+    {
+      "name": "Международный день БЕЗ интернета",
+      "decl_name": "международным днём без интернета",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_bez_interneta"
+    },
+    {
+      "name": "День рождения русской водки",
+      "decl_name": "днём рождения русской водки",
+      "congrat": "/sara_s_dnem_rozhdenija_russkoj_vodki"
+    },
+    {
+      "name": "День белорусской науки",
+      "decl_name": "днём белорусской науки",
+      "congrat": "/sara_s_dnem_belorusskoj_nauki"
+    }
+  ],
+  "2021.02.01": [
+    {
+      "name": "День работника лифтового хозяйства (День лифтовика) в России",
+      "decl_name": "днём работника лифтового хозяйства (днём лифтовика) в россии",
+      "congrat": "/sara_s_dnem_rabotnika_liftovogo_hozjajstva_dnem_liftovika_v_rossii"
+    },
+    {
+      "name": "Всемирная неделя гармоничных межконфессиональных отношений",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.02.02": [
+    {
+      "name": "День разгрома советскими войсками немецко-фашистских войск в Сталинградской битве",
+      "decl_name": "днём разгрома советскими войсками немецко-фашистских войск в сталинградской битве",
+      "congrat": "/sara_s_dnem_razgroma_sovetskimi_vojskami_nemetskofashistskih_vojsk_v_stalingradskoj_bitve"
+    },
+    {
+      "name": "Всемирный день водно-болотных угодий",
+      "decl_name": "всемирным днём водно-болотных угодий",
+      "congrat": "/sara_s_vsemirnym_dnem_vodnobolotnyh_ugodij"
+    },
+    {
+      "name": "День сурка",
+      "decl_name": "днём сурка",
+      "congrat": "/sara_s_dnem_surka"
+    }
+  ],
+  "2021.02.04": [
+    {
+      "name": "Всемирный день борьбы с раковыми заболеваниями",
+      "decl_name": "всемирным днём борьбы с раковыми заболеваниями",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_rakovymi_zabolevanijami"
+    },
+    {
+      "name": "День рождения резиновых калош",
+      "decl_name": "днём рождения резиновых калош",
+      "congrat": "/sara_s_dnem_rozhdenija_rezinovyh_kalosh"
+    }
+  ],
+  "2021.02.06": [
+    {
+      "name": "Международный день бармена",
+      "decl_name": "международным днём бармена",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_barmena"
+    }
+  ],
+  "2021.02.07": [
+    {
+      "name": "День зимних видов спорта в России",
+      "decl_name": "днём зимних видов спорта в россии",
+      "congrat": "/sara_s_dnem_zimnih_vidov_sporta_v_rossii"
+    }
+  ],
+  "2021.02.08": [
+    {
+      "name": "День российской науки",
+      "decl_name": "днём российской науки",
+      "congrat": "/sara_s_dnem_rossijskoj_nauki"
+    }
+  ],
+  "2021.02.09": [
+    {
+      "name": "День гражданской авиации России",
+      "decl_name": "днём гражданской авиации россии",
+      "congrat": "/sara_s_dnem_grazhdanskoj_aviatsii_rossii"
+    },
+    {
+      "name": "Международный день стоматолога",
+      "decl_name": "международным днём стоматолога",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_stomatologa"
+    }
+  ],
+  "2021.02.11": [
+    {
+      "name": "Всемирный день больного",
+      "decl_name": "всемирным днём больного",
+      "congrat": "/sara_s_vsemirnym_dnem_bolnogo"
+    },
+    {
+      "name": "Международный день женщин и девочек в науке",
+      "decl_name": "международным днём женщин и девочек в науке",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zhenschin_i_devochek_v_nauke"
+    }
+  ],
+  "2021.02.12": [
+    {
+      "name": "Международный день брачных агентств",
+      "decl_name": "международным днём брачных агентств",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_brachnyh_agentstv"
+    }
+  ],
+  "2021.02.13": [
+    {
+      "name": "Всемирный день радио",
+      "decl_name": "всемирным днём радио",
+      "congrat": "/sara_s_vsemirnym_dnem_radio"
+    },
+    {
+      "name": "Лыжня России",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.02.14": [
+    {
+      "name": "День святого Валентина (День всех влюбленных)",
+      "decl_name": "днём святого валентина (днём всех влюбленных)",
+      "congrat": "/sara_s_dnem_svjatogo_valentina_dnem_vseh_vljublennyh"
+    },
+    {
+      "name": "День компьютерщика",
+      "decl_name": "днём компьютерщика",
+      "congrat": "/sara_s_dnem_kompjuterschika"
+    }
+  ],
+  "2021.02.15": [
+    {
+      "name": "День памяти воинов-интернационалистов в Беларуси",
+      "decl_name": "днём памяти воинов-интернационалистов в беларуси",
+      "congrat": "/sara_s_dnem_pamjati_voinovinternatsionalistov_v_belarusi"
+    },
+    {
+      "name": "Международный день детей, больных раком",
+      "decl_name": "международным днём детей, больных раком",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_detej_bolnyh_rakom"
+    },
+    {
+      "name": "Громница — Сретение",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.02.16": [
+    {
+      "name": "Марди Гра — «Жирный вторник»",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Международный день блина",
+      "decl_name": "международным днём блина",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_blina"
+    }
+  ],
+  "2021.02.17": [
+    {
+      "name": "День спонтанного проявления доброты",
+      "decl_name": "днём спонтанного проявления доброты",
+      "congrat": "/sara_s_dnem_spontannogo_projavlenija_dobroty"
+    }
+  ],
+  "2021.02.19": [
+    {
+      "name": "Всемирный день защиты морских млекопитающих (День кита)",
+      "decl_name": "всемирным днём защиты морских млекопитающих (день кита)",
+      "congrat": "/sara_s_vsemirnym_dnem_zaschity_morskih_mlekopitajuschih_den_kita"
+    }
+  ],
+  "2021.02.20": [
+    {
+      "name": "Всемирный день социальной справедливости",
+      "decl_name": "всемирным днём социальной справедливости",
+      "congrat": "/sara_s_vsemirnym_dnem_sotsialnoj_spravedlivosti"
+    }
+  ],
+  "2021.02.21": [
+    {
+      "name": "Международный день родного языка",
+      "decl_name": "международным днём родного языка",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_rodnogo_jazyka"
+    },
+    {
+      "name": "Всемирный день экскурсовода",
+      "decl_name": "всемирным днём экскурсовода",
+      "congrat": "/sara_s_vsemirnym_dnem_ekskursovoda"
+    }
+  ],
+  "2021.02.22": [
+    {
+      "name": "Международный день поддержки жертв преступлений",
+      "decl_name": "международным днём поддержки жертв преступлений",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_podderzhki_zhertv_prestuplenij"
+    },
+    {
+      "name": "День кошки в Японии",
+      "decl_name": "днём кошки в японии",
+      "congrat": "/sara_s_dnem_koshki_v_japonii"
+    }
+  ],
+  "2021.02.23": [
+    {
+      "name": "День защитника Отечества в России",
+      "decl_name": "днём защитника отечества в россии",
+      "congrat": "/sara_s_dnem_zaschitnika_otechestva_v_rossii"
+    }
+  ],
+  "2021.02.24": [
+    {
+      "name": "День независимости Эстонии",
+      "decl_name": "днём независимости эстонии",
+      "congrat": "/sara_s_dnem_nezavisimosti_estonii"
+    }
+  ],
+  "2021.02.26": [
+    {
+      "name": "Всемирный день неторопливости",
+      "decl_name": "всемирным днём неторопливости",
+      "congrat": "/sara_s_vsemirnym_dnem_netoroplivosti"
+    },
+    {
+      "name": "Пурим",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.02.27": [
+    {
+      "name": "Международный день полярного медведя",
+      "decl_name": "международным днём полярного медведя",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_poljarnogo_medvedja"
+    }
+  ],
+  "2021.03.01": [
+    {
+      "name": "Всемирный день комплимента",
+      "decl_name": "всемирным днём комплимента",
+      "congrat": "/sara_s_vsemirnym_dnem_komplimenta"
+    },
+    {
+      "name": "День театрального кассира",
+      "decl_name": "днём театрального кассира",
+      "congrat": "/sara_s_dnem_teatralnogo_kassira"
+    },
+    {
+      "name": "Всемирный день гражданской обороны",
+      "decl_name": "всемирным днём гражданской обороны",
+      "congrat": "/sara_s_vsemirnym_dnem_grazhdanskoj_oborony"
+    },
+    {
+      "name": "День «Ноль дискриминации»",
+      "decl_name": "днём «ноль дискриминации»",
+      "congrat": "/sara_s_dnem_nol_diskriminatsii"
+    },
+    {
+      "name": "День Забайкальского края",
+      "decl_name": "днём забайкальского края",
+      "congrat": "/sara_s_dnem_zabajkalskogo_kraja"
+    },
+    {
+      "name": "День кошек в России",
+      "decl_name": "днём кошек в россии",
+      "congrat": "/sara_s_dnem_koshek_v_rossii"
+    },
+    {
+      "name": "Праздник прихода весны",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.03.02": [
+    {
+      "name": "Международный день спички",
+      "decl_name": "международным днём спички",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_spichki"
+    }
+  ],
+  "2021.03.03": [
+    {
+      "name": "Всемирный день дикой природы",
+      "decl_name": "всемирным днём дикой природы",
+      "congrat": "/sara_s_vsemirnym_dnem_dikoj_prirody"
+    },
+    {
+      "name": "Всемирный день писателя",
+      "decl_name": "всемирным днём писателя",
+      "congrat": "/sara_s_vsemirnym_dnem_pisatelja"
+    },
+    {
+      "name": "Международный день охраны здоровья уха и слуха",
+      "decl_name": "международным днём охраны здоровья уха и слуха",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_ohrany_zdorovja_uha_i_sluha"
+    }
+  ],
+  "2021.03.04": [
+    {
+      "name": "День милиции в Беларуси",
+      "decl_name": "днём милиции в беларуси",
+      "congrat": "/sara_s_dnem_militsii_v_belarusi"
+    }
+  ],
+  "2021.03.06": [
+    {
+      "name": "Международный день зубного врача",
+      "decl_name": "международным днём зубного врача",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zubnogo_vracha"
+    }
+  ],
+  "2021.03.08": [
+    {
+      "name": "Международный женский день",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Масленица — начало сырной недели",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "День Содружества наций",
+      "decl_name": "днём содружества наций",
+      "congrat": "/sara_s_dnem_sodruzhestva_natsij"
+    }
+  ],
+  "2021.03.09": [
+    {
+      "name": "Всемирный день ди-джея",
+      "decl_name": "всемирным днём ди-джея",
+      "congrat": "/sara_s_vsemirnym_dnem_didzheja"
+    }
+  ],
+  "2021.03.10": [
+    {
+      "name": "День архивов в России",
+      "decl_name": "днём архивов в россии",
+      "congrat": "/sara_s_dnem_arhivov_v_rossii"
+    }
+  ],
+  "2021.03.11": [
+    {
+      "name": "День работника органов наркоконтроля России",
+      "decl_name": "днём работника органов наркоконтроля россии",
+      "congrat": "/sara_s_dnem_rabotnika_organov_narkokontrolja_rossii"
+    },
+    {
+      "name": "День восстановления независимости Литвы",
+      "decl_name": "днём восстановления независимости литвы",
+      "congrat": "/sara_s_dnem_vosstanovlenija_nezavisimosti_litvy"
+    }
+  ],
+  "2021.03.12": [
+    {
+      "name": "Всемирный день сна",
+      "decl_name": "всемирным днём сна",
+      "congrat": "/sara_s_vsemirnym_dnem_sna"
+    }
+  ],
+  "2021.03.13": [
+    {
+      "name": "Национальный день тайского слона",
+      "decl_name": "национальным днём тайского слона",
+      "congrat": "/sara_s_natsionalnym_dnem_tajskogo_slona"
+    }
+  ],
+  "2021.03.14": [
+    {
+      "name": "Международный день числа «Пи»",
+      "decl_name": "международным днём числа «пи»",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_chisla_pi"
+    },
+    {
+      "name": "Международный день планетариев",
+      "decl_name": "международным днём планетариев",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_planetariev"
+    },
+    {
+      "name": "День работников геодезии и картографии в России",
+      "decl_name": "днём работников геодезии и картографии в россии",
+      "congrat": "/sara_s_dnem_rabotnikov_geodezii_i_kartografii_v_rossii"
+    },
+    {
+      "name": "Прощеное воскресенье",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.03.15": [
+    {
+      "name": "Всемирный день защиты прав потребителей",
+      "decl_name": "всемирным днём защиты прав потребителей",
+      "congrat": "/sara_s_vsemirnym_dnem_zaschity_prav_potrebitelej"
+    },
+    {
+      "name": "Международный день защиты бельков",
+      "decl_name": "международным днём защиты бельков",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zaschity_belkov"
+    },
+    {
+      "name": "День Конституции Республики Беларусь",
+      "decl_name": "днём конституции республики беларусь",
+      "congrat": "/sara_s_dnem_konstitutsii_respubliki_belarus"
+    }
+  ],
+  "2021.03.18": [
+    {
+      "name": "День воссоединения Крыма с Россией",
+      "decl_name": "днём воссоединения крыма с россией",
+      "congrat": "/sara_s_dnem_vossoedinenija_kryma_s_rossiej"
+    },
+    {
+      "name": "День внутренних войск Беларуси",
+      "decl_name": "днём внутренних войск беларуси",
+      "congrat": "/sara_s_dnem_vnutrennih_vojsk_belarusi"
+    },
+    {
+      "name": "День Парижской коммуны",
+      "decl_name": "днём парижской коммуны",
+      "congrat": "/sara_s_dnem_parizhskoj_kommuny"
+    }
+  ],
+  "2021.03.19": [
+    {
+      "name": "Международный день клиента",
+      "decl_name": "международным днём клиента",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_klienta"
+    },
+    {
+      "name": "День моряка-подводника в России",
+      "decl_name": "днём моряка-подводника в россии",
+      "congrat": "/sara_s_dnem_morjakapodvodnika_v_rossii"
+    }
+  ],
+  "2021.03.20": [
+    {
+      "name": "Международный день счастья",
+      "decl_name": "международным днём счастья",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_schastja"
+    },
+    {
+      "name": "День Земли",
+      "decl_name": "днём земли",
+      "congrat": "/sara_s_dnem_zemli"
+    },
+    {
+      "name": "День весеннего равноденствия",
+      "decl_name": "днём весеннего равноденствия",
+      "congrat": "/sara_s_dnem_vesennego_ravnodenstvija"
+    },
+    {
+      "name": "Международный день астрологии",
+      "decl_name": "международным днём астрологии",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_astrologii"
+    },
+    {
+      "name": "День французского языка (Международный день франкофонии)",
+      "decl_name": "днём французского языка (международный днём франкофонии)",
+      "congrat": "/sara_s_dnem_frantsuzskogo_jazyka_mezhdunarodnyj_dnem_frankofonii"
+    },
+    {
+      "name": "Международный день без мяса",
+      "decl_name": "международным днём без мяса",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_bez_mjasa"
+    }
+  ],
+  "2021.03.21": [
+    {
+      "name": "Всемирный день поэзии",
+      "decl_name": "всемирным днём поэзии",
+      "congrat": "/sara_s_vsemirnym_dnem_poezii"
+    },
+    {
+      "name": "Международный день кукольника",
+      "decl_name": "международным днём кукольника",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_kukolnika"
+    },
+    {
+      "name": "Международный день Навруз",
+      "decl_name": "международным днём навруз",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_navruz"
+    },
+    {
+      "name": "День работников бытового обслуживания населения и жилищно-коммунального хозяйства в России",
+      "decl_name": "днём работников бытового обслуживания населения и жилищно-коммунального хозяйства в россии",
+      "congrat": "/sara_s_dnem_rabotnikov_bytovogo_obsluzhivanija_naselenija_i_zhilischnokommunalnogo_hozjajstva_v_rossii"
+    },
+    {
+      "name": "Всемирный день людей с синдромом Дауна",
+      "decl_name": "всемирным днём людей с синдромом дауна",
+      "congrat": "/sara_s_vsemirnym_dnem_ljudej_s_sindromom_dauna"
+    },
+    {
+      "name": "Международный день лесов",
+      "decl_name": "международным днём лесов",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_lesov"
+    }
+  ],
+  "2021.03.22": [
+    {
+      "name": "Всемирный день водных ресурсов",
+      "decl_name": "всемирным днём водных ресурсов",
+      "congrat": "/sara_s_vsemirnym_dnem_vodnyh_resursov"
+    },
+    {
+      "name": "День Балтийского моря",
+      "decl_name": "днём балтийского моря",
+      "congrat": "/sara_s_dnem_baltijskogo_morja"
+    },
+    {
+      "name": "Международный день таксиста",
+      "decl_name": "международным днём таксиста",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_taksista"
+    },
+    {
+      "name": "Сороки, Жаворонки",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.03.23": [
+    {
+      "name": "День работников гидрометеорологической службы России",
+      "decl_name": "днём работников гидрометеорологической службы россии",
+      "congrat": "/sara_s_dnem_rabotnikov_gidrometeorologicheskoj_sluzhby_rossii"
+    }
+  ],
+  "2021.03.24": [
+    {
+      "name": "Всемирный день борьбы с туберкулезом",
+      "decl_name": "всемирным днём борьбы с туберкулезом",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_tuberkulezom"
+    }
+  ],
+  "2021.03.25": [
+    {
+      "name": "День работника культуры России",
+      "decl_name": "днём работника культуры россии",
+      "congrat": "/sara_s_dnem_rabotnika_kultury_rossii"
+    },
+    {
+      "name": "День независимости Греции",
+      "decl_name": "днём независимости греции",
+      "congrat": "/sara_s_dnem_nezavisimosti_gretsii"
+    }
+  ],
+  "2021.03.26": [
+    {
+      "name": "Фиолетовый день (День больных эпилепсией)",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.03.27": [
+    {
+      "name": "Всемирный день театра",
+      "decl_name": "всемирным днём театра",
+      "congrat": "/sara_s_vsemirnym_dnem_teatra"
+    }
+  ],
+  "2021.03.28": [
+    {
+      "name": "Песах",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.03.31": [
+    {
+      "name": "Международный день резервного копирования (День бэкапа)",
+      "decl_name": "международным днём резервного копирования (день бэкапа)",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_rezervnogo_kopirovanija_den_bekapa"
+    }
+  ],
+  "2021.04.01": [
+    {
+      "name": "День смеха (День дурака)",
+      "decl_name": "днём смеха (днём дурака)",
+      "congrat": "/sara_s_dnem_smeha_dnem_duraka"
+    },
+    {
+      "name": "Международный день птиц",
+      "decl_name": "международным днём птиц",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_ptits"
+    }
+  ],
+  "2021.04.02": [
+    {
+      "name": "Международный день детской книги",
+      "decl_name": "международным днём детской книги",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_detskoj_knigi"
+    },
+    {
+      "name": "День единения народов России и Белоруссии",
+      "decl_name": "днём единения народов россии и белоруссии",
+      "congrat": "/sara_s_dnem_edinenija_narodov_rossii_i_belorussii"
+    },
+    {
+      "name": "Всемирный день распространения информации о проблеме аутизма",
+      "decl_name": "всемирным днём распространения информации о проблеме аутизма",
+      "congrat": "/sara_s_vsemirnym_dnem_rasprostranenija_informatsii_o_probleme_autizma"
+    }
+  ],
+  "2021.04.03": [
+    {
+      "name": "Всемирный день вечеринки",
+      "decl_name": "всемирным днём вечеринки",
+      "congrat": "/sara_s_vsemirnym_dnem_vecherinki"
+    }
+  ],
+  "2021.04.04": [
+    {
+      "name": "День геолога",
+      "decl_name": "днём геолога",
+      "congrat": "/sara_s_dnem_geologa"
+    },
+    {
+      "name": "День веб-мастера",
+      "decl_name": "днём веб-мастера",
+      "congrat": "/sara_s_dnem_vebmastera"
+    },
+    {
+      "name": "Всемирный день крысы",
+      "decl_name": "всемирным днём крысы",
+      "congrat": "/sara_s_vsemirnym_dnem_krysy"
+    },
+    {
+      "name": "Пасха у западных христиан",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.04.05": [
+    {
+      "name": "День принятия Степного Уложения (Конституции) Республики Калмыкия",
+      "decl_name": "днём принятия степного уложения (конституции) республики калмыкия",
+      "congrat": "/sara_s_dnem_prinjatija_stepnogo_ulozhenija_konstitutsii_respubliki_kalmykija"
+    }
+  ],
+  "2021.04.06": [
+    {
+      "name": "Международный день спорта на благо развития и мира",
+      "decl_name": "международным днём спорта на благо развития и мира",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_sporta_na_blago_razvitija_i_mira"
+    },
+    {
+      "name": "Всемирный день настольного тенниса",
+      "decl_name": "всемирным днём настольного тенниса",
+      "congrat": "/sara_s_vsemirnym_dnem_nastolnogo_tennisa"
+    }
+  ],
+  "2021.04.07": [
+    {
+      "name": "День рождения Рунета",
+      "decl_name": "днём рождения рунета",
+      "congrat": "/sara_s_dnem_rozhdenija_runeta"
+    },
+    {
+      "name": "Благовещение Пресвятой Богородицы",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "День памяти погибших подводников",
+      "decl_name": "днём памяти погибших подводников",
+      "congrat": "/sara_s_dnem_pamjati_pogibshih_podvodnikov"
+    },
+    {
+      "name": "Международный день памяти о геноциде тутси в Руанде в 1994 году",
+      "decl_name": "международным днём памяти о геноциде тутси в руанде в 1994 году",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_pamjati_o_genotside_tutsi_v_ruande_v_1994_godu"
+    }
+  ],
+  "2021.04.08": [
+    {
+      "name": "Международный день цыган",
+      "decl_name": "международным днём цыган",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_tsygan"
+    }
+  ],
+  "2021.04.10": [
+    {
+      "name": "Международный день движения сопротивления",
+      "decl_name": "международным днём движения сопротивления",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_dvizhenija_soprotivlenija"
+    }
+  ],
+  "2021.04.11": [
+    {
+      "name": "Международный день освобождения узников фашистских концлагерей",
+      "decl_name": "международным днём освобождения узников фашистских концлагерей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_osvobozhdenija_uznikov_fashistskih_kontslagerej"
+    }
+  ],
+  "2021.04.12": [
+    {
+      "name": "Всемирный день авиации и космонавтики (Международный день полета человека в космос)",
+      "decl_name": "всемирным днём авиации и космонавтики (международный день полета человека в космос)",
+      "congrat": "/sara_s_vsemirnym_dnem_aviatsii_i_kosmonavtiki_mezhdunarodnyj_den_poleta_cheloveka_v_kosmos"
+    }
+  ],
+  "2021.04.13": [
+    {
+      "name": "Всемирный день рок-н-ролла",
+      "decl_name": "всемирным днём рок-н-ролла",
+      "congrat": "/sara_s_vsemirnym_dnem_roknrolla"
+    }
+  ],
+  "2021.04.15": [
+    {
+      "name": "Международный день культуры",
+      "decl_name": "международным днём культуры",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_kultury"
+    },
+    {
+      "name": "День экологических знаний",
+      "decl_name": "днём экологических знаний",
+      "congrat": "/sara_s_dnem_ekologicheskih_znanij"
+    },
+    {
+      "name": "День независимости Израиля",
+      "decl_name": "днём независимости израиля",
+      "congrat": "/sara_s_dnem_nezavisimosti_izrailja"
+    }
+  ],
+  "2021.04.17": [
+    {
+      "name": "Международный день цирка",
+      "decl_name": "международным днём цирка",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_tsirka"
+    },
+    {
+      "name": "Всемирный день гемофилии",
+      "decl_name": "всемирным днём гемофилии",
+      "congrat": "/sara_s_vsemirnym_dnem_gemofilii"
+    }
+  ],
+  "2021.04.18": [
+    {
+      "name": "Международный день памятников и исторических мест",
+      "decl_name": "международным днём памятников и исторических мест",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_pamjatnikov_i_istoricheskih_mest"
+    },
+    {
+      "name": "Всемирный день радиолюбителя",
+      "decl_name": "всемирным днём радиолюбителя",
+      "congrat": "/sara_s_vsemirnym_dnem_radioljubitelja"
+    },
+    {
+      "name": "День победы русских воинов князя Александра Невского над немецкими рыцарями на Чудском озере",
+      "decl_name": "днём победы русских воинов князя александра невского над немецкими рыцарями на чудском озере",
+      "congrat": "/sara_s_dnem_pobedy_russkih_voinov_knjazja_aleksandra_nevskogo_nad_nemetskimi_rytsarjami_na_chudskom_ozere"
+    },
+    {
+      "name": "День независимости Зимбабве",
+      "decl_name": "днём независимости зимбабве",
+      "congrat": "/sara_s_dnem_nezavisimosti_zimbabve"
+    }
+  ],
+  "2021.04.19": [
+    {
+      "name": "День подснежника",
+      "decl_name": "днём подснежника",
+      "congrat": "/sara_s_dnem_podsnezhnika"
+    }
+  ],
+  "2021.04.20": [
+    {
+      "name": "Национальный день донора в России",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "День китайского языка",
+      "decl_name": "днём китайского языка",
+      "congrat": "/sara_s_dnem_kitajskogo_jazyka"
+    }
+  ],
+  "2021.04.22": [
+    {
+      "name": "Международный день Матери-Земли",
+      "decl_name": "международным днём матери-земли",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_materizemli"
+    }
+  ],
+  "2021.04.23": [
+    {
+      "name": "День английского языка",
+      "decl_name": "днём английского языка",
+      "congrat": "/sara_s_dnem_anglijskogo_jazyka"
+    }
+  ],
+  "2021.04.24": [
+    {
+      "name": "Международный день солидарности молодежи",
+      "decl_name": "международным днём солидарности молодежи",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_solidarnosti_molodezhi"
+    },
+    {
+      "name": "Международный день ветеринарного врача",
+      "decl_name": "международным днём ветеринарного врача",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_veterinarnogo_vracha"
+    },
+    {
+      "name": "Всемирный день Тай-цзи и Цигун",
+      "decl_name": "всемирным днём тай-цзи и цигун",
+      "congrat": "/sara_s_vsemirnym_dnem_tajtszi_i_tsigun"
+    },
+    {
+      "name": "Всемирный день защиты лабораторных животных",
+      "decl_name": "всемирным днём защиты лабораторных животных",
+      "congrat": "/sara_s_vsemirnym_dnem_zaschity_laboratornyh_zhivotnyh"
+    },
+    {
+      "name": "Всемирная неделя иммунизации",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.04.25": [
+    {
+      "name": "Международный День ДНК",
+      "decl_name": "международным днём днк",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_dnk"
+    },
+    {
+      "name": "Всемирный день породненных городов",
+      "decl_name": "всемирным днём породненных городов",
+      "congrat": "/sara_s_vsemirnym_dnem_porodnennyh_gorodov"
+    },
+    {
+      "name": "Вход Господень в Иерусалим (Вербное Воскресенье)",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.04.26": [
+    {
+      "name": "Международный день памяти о чернобыльской катастрофе",
+      "decl_name": "международным днём памяти о чернобыльской катастрофе",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_pamjati_o_chernobylskoj_katastrofe"
+    }
+  ],
+  "2021.04.27": [
+    {
+      "name": "День образования Республики Саха (Якутия)",
+      "decl_name": "днём образования республики саха (якутия)",
+      "congrat": "/sara_s_dnem_obrazovanija_respubliki_saha_jakutija"
+    }
+  ],
+  "2021.04.28": [
+    {
+      "name": "День борьбы за права человека от химической опасности (День химической безопасности)",
+      "decl_name": "днём борьбы за права человека от химической опасности (днём химической безопасности)",
+      "congrat": "/sara_s_dnem_borby_za_prava_cheloveka_ot_himicheskoj_opasnosti_dnem_himicheskoj_bezopasnosti"
+    }
+  ],
+  "2021.04.29": [
+    {
+      "name": "Международный день танца",
+      "decl_name": "международным днём танца",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_tantsa"
+    }
+  ],
+  "2021.04.30": [
+    {
+      "name": "Международный день джаза",
+      "decl_name": "международным днём джаза",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_dzhaza"
+    },
+    {
+      "name": "День пожарной охраны России",
+      "decl_name": "днём пожарной охраны россии",
+      "congrat": "/sara_s_dnem_pozharnoj_ohrany_rossii"
+    }
+  ],
+  "2021.05.01": [
+    {
+      "name": "Праздник труда (День труда, Первое мая)",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.02": [
+    {
+      "name": "Пасха у православных христиан",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.03": [
+    {
+      "name": "Всемирный день Солнца",
+      "decl_name": "всемирным днём солнца",
+      "congrat": "/sara_s_vsemirnym_dnem_solntsa"
+    }
+  ],
+  "2021.05.04": [
+    {
+      "name": "День восстановления независимости Латвийской Республики",
+      "decl_name": "днём восстановления независимости латвийской республики",
+      "congrat": "/sara_s_dnem_vosstanovlenija_nezavisimosti_latvijskoj_respubliki"
+    },
+    {
+      "name": "День Звездных войн",
+      "decl_name": "днём звездных войн",
+      "congrat": "/sara_s_dnem_zvezdnyh_vojn"
+    }
+  ],
+  "2021.05.05": [
+    {
+      "name": "Международный день борьбы за права инвалидов",
+      "decl_name": "международным днём борьбы за права инвалидов",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_borby_za_prava_invalidov"
+    },
+    {
+      "name": "Международный день акушерки",
+      "decl_name": "международным днём акушерки",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_akusherki"
+    },
+    {
+      "name": "День водолаза в России",
+      "decl_name": "днём водолаза в россии",
+      "congrat": "/sara_s_dnem_vodolaza_v_rossii"
+    },
+    {
+      "name": "День шифровальщика в России",
+      "decl_name": "днём шифровальщика в россии",
+      "congrat": "/sara_s_dnem_shifrovalschika_v_rossii"
+    },
+    {
+      "name": "День печати в Беларуси",
+      "decl_name": "днём печати в беларуси",
+      "congrat": "/sara_s_dnem_pechati_v_belarusi"
+    }
+  ],
+  "2021.05.07": [
+    {
+      "name": "День радио",
+      "decl_name": "днём радио",
+      "congrat": "/sara_s_dnem_radio"
+    }
+  ],
+  "2021.05.08": [
+    {
+      "name": "Дни памяти и примирения, посвященные погибшим во Второй мировой войне",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Всемирный День Красного Креста и Красного Полумесяца",
+      "decl_name": "всемирным днём красного креста и красного полумесяца",
+      "congrat": "/sara_s_vsemirnym_dnem_krasnogo_kresta_i_krasnogo_polumesjatsa"
+    },
+    {
+      "name": "Всемирный день справедливой торговли",
+      "decl_name": "всемирным днём справедливой торговли",
+      "congrat": "/sara_s_vsemirnym_dnem_spravedlivoj_torgovli"
+    },
+    {
+      "name": "Ночь женщин в Норвегии",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Национальный день мельника в Нидерландах",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.09": [
+    {
+      "name": "День Победы",
+      "decl_name": "днём победы",
+      "congrat": "/sara_s_dnem_pobedy"
+    },
+    {
+      "name": "День Государственного герба и Государственного флага Республики Беларусь",
+      "decl_name": "днём государственного герба и государственного флага республики беларусь",
+      "congrat": "/sara_s_dnem_gosudarstvennogo_gerba_i_gosudarstvennogo_flaga_respubliki_belarus"
+    }
+  ],
+  "2021.05.11": [
+    {
+      "name": "Радоница",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.12": [
+    {
+      "name": "Международный день медицинской сестры",
+      "decl_name": "международным днём медицинской сестры",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_meditsinskoj_sestry"
+    },
+    {
+      "name": "День экологического образования",
+      "decl_name": "днём экологического образования",
+      "congrat": "/sara_s_dnem_ekologicheskogo_obrazovanija"
+    }
+  ],
+  "2021.05.14": [
+    {
+      "name": "День фрилансера в России",
+      "decl_name": "днём фрилансера в россии",
+      "congrat": "/sara_s_dnem_frilansera_v_rossii"
+    }
+  ],
+  "2021.05.15": [
+    {
+      "name": "Международный день семей",
+      "decl_name": "международным днём семей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_semej"
+    },
+    {
+      "name": "Международный день отказника от военной службы по убеждениям совести",
+      "decl_name": "международным днём отказника от военной службы по убеждениям совести",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_otkaznika_ot_voennoj_sluzhby_po_ubezhdenijam_sovesti"
+    },
+    {
+      "name": "День астрономии",
+      "decl_name": "днём астрономии",
+      "congrat": "/sara_s_dnem_astronomii"
+    },
+    {
+      "name": "Международный день климата",
+      "decl_name": "международным днём климата",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_klimata"
+    },
+    {
+      "name": "День калмыцкого чая",
+      "decl_name": "днём калмыцкого чая",
+      "congrat": "/sara_s_dnem_kalmytskogo_chaja"
+    },
+    {
+      "name": "Единые дни действий в защиту малых рек и водоемов",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.16": [
+    {
+      "name": "Всемирный день памяти жертв СПИДа",
+      "decl_name": "всемирным днём памяти жертв спида",
+      "congrat": "/sara_s_vsemirnym_dnem_pamjati_zhertv_spida"
+    }
+  ],
+  "2021.05.17": [
+    {
+      "name": "Всемирный день электросвязи и информационного общества",
+      "decl_name": "всемирным днём электросвязи и информационного общества",
+      "congrat": "/sara_s_vsemirnym_dnem_elektrosvjazi_i_informatsionnogo_obschestva"
+    },
+    {
+      "name": "Международный день борьбы с гомофобией",
+      "decl_name": "международным днём борьбы с гомофобией",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_borby_s_gomofobiej"
+    },
+    {
+      "name": "Шавуот",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.18": [
+    {
+      "name": "Международный день музеев",
+      "decl_name": "международным днём музеев",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_muzeev"
+    },
+    {
+      "name": "День Розовой Пантеры",
+      "decl_name": "днём розовой пантеры",
+      "congrat": "/sara_s_dnem_rozovoj_pantery"
+    }
+  ],
+  "2021.05.20": [
+    {
+      "name": "Всемирный день метрологии",
+      "decl_name": "всемирным днём метрологии",
+      "congrat": "/sara_s_vsemirnym_dnem_metrologii"
+    },
+    {
+      "name": "День Волги",
+      "decl_name": "днём волги",
+      "congrat": "/sara_s_dnem_volgi"
+    }
+  ],
+  "2021.05.21": [
+    {
+      "name": "Всемирный день культурного разнообразия во имя диалога и развития",
+      "decl_name": "всемирным днём культурного разнообразия во имя диалога и развития",
+      "congrat": "/sara_s_vsemirnym_dnem_kulturnogo_raznoobrazija_vo_imja_dialoga_i_razvitija"
+    },
+    {
+      "name": "День полярника в России",
+      "decl_name": "днём полярника в россии",
+      "congrat": "/sara_s_dnem_poljarnika_v_rossii"
+    },
+    {
+      "name": "День инвентаризатора (День работника БТИ)",
+      "decl_name": "днём инвентаризатора (днём работника бти)",
+      "congrat": "/sara_s_dnem_inventarizatora_dnem_rabotnika_bti"
+    },
+    {
+      "name": "День независимости Черногории",
+      "decl_name": "днём независимости черногории",
+      "congrat": "/sara_s_dnem_nezavisimosti_chernogorii"
+    }
+  ],
+  "2021.05.22": [
+    {
+      "name": "Международный день биологического разнообразия",
+      "decl_name": "международным днём биологического разнообразия",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_biologicheskogo_raznoobrazija"
+    }
+  ],
+  "2021.05.23": [
+    {
+      "name": "Всемирный день черепахи",
+      "decl_name": "всемирным днём черепахи",
+      "congrat": "/sara_s_vsemirnym_dnem_cherepahi"
+    }
+  ],
+  "2021.05.24": [
+    {
+      "name": "День славянской письменности и культуры (День святых Мефодия и Кирилла)",
+      "decl_name": "днём славянской письменности и культуры (днём святых мефодия и кирилла)",
+      "congrat": "/sara_s_dnem_slavjanskoj_pismennosti_i_kultury_dnem_svjatyh_mefodija_i_kirilla"
+    },
+    {
+      "name": "Европейский день парков",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.25": [
+    {
+      "name": "День полотенца",
+      "decl_name": "днём полотенца",
+      "congrat": "/sara_s_dnem_polotentsa"
+    },
+    {
+      "name": "День филолога в России",
+      "decl_name": "днём филолога в россии",
+      "congrat": "/sara_s_dnem_filologa_v_rossii"
+    },
+    {
+      "name": "День Нерпенка",
+      "decl_name": "днём нерпенка",
+      "congrat": "/sara_s_dnem_nerpenka"
+    },
+    {
+      "name": "Всемирный день щитовидной железы",
+      "decl_name": "всемирным днём щитовидной железы",
+      "congrat": "/sara_s_vsemirnym_dnem_schitovidnoj_zhelezy"
+    }
+  ],
+  "2021.05.26": [
+    {
+      "name": "День снежного барса на Алтае",
+      "decl_name": "днём снежного барса на алтае",
+      "congrat": "/sara_s_dnem_snezhnogo_barsa_na_altae"
+    },
+    {
+      "name": "День независимости Грузии",
+      "decl_name": "днём независимости грузии",
+      "congrat": "/sara_s_dnem_nezavisimosti_gruzii"
+    }
+  ],
+  "2021.05.27": [
+    {
+      "name": "Общероссийский день библиотек",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.28": [
+    {
+      "name": "День пограничника в России",
+      "decl_name": "днём пограничника в россии",
+      "congrat": "/sara_s_dnem_pogranichnika_v_rossii"
+    },
+    {
+      "name": "День оптимизатора Рунета (День SEO-оптимизатора)",
+      "decl_name": "днём оптимизатора рунета (днём seo-оптимизатора)",
+      "congrat": "/sara_s_dnem_optimizatora_runeta_dnem_seooptimizatora"
+    },
+    {
+      "name": "День брюнеток",
+      "decl_name": "днём брюнеток",
+      "congrat": "/sara_s_dnem_brjunetok"
+    },
+    {
+      "name": "День сварщика в России",
+      "decl_name": "днём сварщика в россии",
+      "congrat": "/sara_s_dnem_svarschika_v_rossii"
+    },
+    {
+      "name": "День пограничника в Беларуси",
+      "decl_name": "днём пограничника в беларуси",
+      "congrat": "/sara_s_dnem_pogranichnika_v_belarusi"
+    },
+    {
+      "name": "Всероссийский фестиваль авторской песни «Куликово поле»",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.05.29": [
+    {
+      "name": "Международный день миротворцев ООН",
+      "decl_name": "международным днём миротворцев оон",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_mirotvortsev_oon"
+    },
+    {
+      "name": "День ветеранов таможенной службы России",
+      "decl_name": "днём ветеранов таможенной службы россии",
+      "congrat": "/sara_s_dnem_veteranov_tamozhennoj_sluzhby_rossii"
+    }
+  ],
+  "2021.05.30": [
+    {
+      "name": "День химика",
+      "decl_name": "днём химика",
+      "congrat": "/sara_s_dnem_himika"
+    }
+  ],
+  "2021.05.31": [
+    {
+      "name": "Всемирный день без табака",
+      "decl_name": "всемирным днём без табака",
+      "congrat": "/sara_s_vsemirnym_dnem_bez_tabaka"
+    },
+    {
+      "name": "Всемирный день блондинок",
+      "decl_name": "всемирным днём блондинок",
+      "congrat": "/sara_s_vsemirnym_dnem_blondinok"
+    }
+  ],
+  "2021.06.01": [
+    {
+      "name": "Международный день защиты детей",
+      "decl_name": "международным днём защиты детей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zaschity_detej"
+    },
+    {
+      "name": "Всемирный день родителей",
+      "decl_name": "всемирным днём родителей",
+      "congrat": "/sara_s_vsemirnym_dnem_roditelej"
+    },
+    {
+      "name": "Всемирный день молока",
+      "decl_name": "всемирным днём молока",
+      "congrat": "/sara_s_vsemirnym_dnem_moloka"
+    }
+  ],
+  "2021.06.02": [
+    {
+      "name": "День здорового питания и отказа от излишеств в еде",
+      "decl_name": "днём здорового питания и отказа от излишеств в еде",
+      "congrat": "/sara_s_dnem_zdorovogo_pitanija_i_otkaza_ot_izlishestv_v_ede"
+    }
+  ],
+  "2021.06.03": [
+    {
+      "name": "День объявления независимости Черногории",
+      "decl_name": "днём объявления независимости черногории",
+      "congrat": "/sara_s_dnem_objavlenija_nezavisimosti_chernogorii"
+    }
+  ],
+  "2021.06.04": [
+    {
+      "name": "День крановщика (День машиниста крана) в России",
+      "decl_name": "днём крановщика (днём машиниста крана) в россии",
+      "congrat": "/sara_s_dnem_kranovschika_dnem_mashinista_krana_v_rossii"
+    }
+  ],
+  "2021.06.05": [
+    {
+      "name": "Всемирный день окружающей среды (День эколога)",
+      "decl_name": "всемирным днём окружающей среды (день эколога)",
+      "congrat": "/sara_s_vsemirnym_dnem_okruzhajuschej_sredy_den_ekologa"
+    },
+    {
+      "name": "Международный день очистки водоемов в России",
+      "decl_name": "международным днём очистки водоемов в россии",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_ochistki_vodoemov_v_rossii"
+    }
+  ],
+  "2021.06.06": [
+    {
+      "name": "Пушкинский день в России (День русского языка)",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "День русского языка",
+      "decl_name": "днём русского языка",
+      "congrat": "/sara_s_dnem_russkogo_jazyka"
+    }
+  ],
+  "2021.06.07": [
+    {
+      "name": "День краудфандинга",
+      "decl_name": "днём краудфандинга",
+      "congrat": "/sara_s_dnem_kraudfandinga"
+    }
+  ],
+  "2021.06.08": [
+    {
+      "name": "Всемирный день океанов",
+      "decl_name": "всемирным днём океанов",
+      "congrat": "/sara_s_vsemirnym_dnem_okeanov"
+    },
+    {
+      "name": "День Республики Карелия",
+      "decl_name": "днём республики карелия",
+      "congrat": "/sara_s_dnem_respubliki_karelija"
+    },
+    {
+      "name": "Всемирный день петербургских котов и кошек",
+      "decl_name": "всемирным днём петербургских котов и кошек",
+      "congrat": "/sara_s_vsemirnym_dnem_peterburgskih_kotov_i_koshek"
+    }
+  ],
+  "2021.06.09": [
+    {
+      "name": "Международный день друзей",
+      "decl_name": "международным днём друзей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_druzej"
+    },
+    {
+      "name": "Международный день архивов",
+      "decl_name": "международным днём архивов",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_arhivov"
+    },
+    {
+      "name": "Международный день аккредитации",
+      "decl_name": "международным днём аккредитации",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_akkreditatsii"
+    }
+  ],
+  "2021.06.12": [
+    {
+      "name": "День России",
+      "decl_name": "днём россии",
+      "congrat": "/sara_s_dnem_rossii"
+    },
+    {
+      "name": "День пивовара в России",
+      "decl_name": "днём пивовара в россии",
+      "congrat": "/sara_s_dnem_pivovara_v_rossii"
+    }
+  ],
+  "2021.06.13": [
+    {
+      "name": "День швейной машинки",
+      "decl_name": "днём швейной машинки",
+      "congrat": "/sara_s_dnem_shvejnoj_mashinki"
+    },
+    {
+      "name": "День работников легкой промышленности",
+      "decl_name": "днём работников легкой промышленности",
+      "congrat": "/sara_s_dnem_rabotnikov_legkoj_promyshlennosti"
+    },
+    {
+      "name": "Международный день распространения информации об альбинизме",
+      "decl_name": "международным днём распространения информации об альбинизме",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_rasprostranenija_informatsii_ob_albinizme"
+    }
+  ],
+  "2021.06.14": [
+    {
+      "name": "Всемирный день донора крови",
+      "decl_name": "всемирным днём донора крови",
+      "congrat": "/sara_s_vsemirnym_dnem_donora_krovi"
+    },
+    {
+      "name": "Международный день блогера",
+      "decl_name": "международным днём блогера",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_blogera"
+    }
+  ],
+  "2021.06.15": [
+    {
+      "name": "Всемирный день ветра",
+      "decl_name": "всемирным днём ветра",
+      "congrat": "/sara_s_vsemirnym_dnem_vetra"
+    }
+  ],
+  "2021.06.16": [
+    {
+      "name": "Международный день африканского ребенка",
+      "decl_name": "международным днём африканского ребенка",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_afrikanskogo_rebenka"
+    }
+  ],
+  "2021.06.17": [
+    {
+      "name": "Всемирный день борьбы с опустыниванием и засухой",
+      "decl_name": "всемирным днём борьбы с опустыниванием и засухой",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_opustynivaniem_i_zasuhoj"
+    },
+    {
+      "name": "День провозглашения Республики Исландия",
+      "decl_name": "днём провозглашения республики исландия",
+      "congrat": "/sara_s_dnem_provozglashenija_respubliki_islandija"
+    }
+  ],
+  "2021.06.19": [
+    {
+      "name": "Международный день борьбы с сексуальным насилием в условиях конфликта",
+      "decl_name": "международным днём борьбы с сексуальным насилием в условиях конфликта",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_borby_s_seksualnym_nasiliem_v_uslovijah_konflikta"
+    }
+  ],
+  "2021.06.20": [
+    {
+      "name": "День медицинского работника",
+      "decl_name": "днём медицинского работника",
+      "congrat": "/sara_s_dnem_meditsinskogo_rabotnika"
+    },
+    {
+      "name": "Всемирный день защиты слонов в зоопарках",
+      "decl_name": "всемирным днём защиты слонов в зоопарках",
+      "congrat": "/sara_s_vsemirnym_dnem_zaschity_slonov_v_zooparkah"
+    },
+    {
+      "name": "Троица — День Святой Троицы, Пятидесятница",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.06.21": [
+    {
+      "name": "Международный день йоги",
+      "decl_name": "международным днём йоги",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_jogi"
+    },
+    {
+      "name": "Всемирный день мотоциклиста",
+      "decl_name": "всемирным днём мотоциклиста",
+      "congrat": "/sara_s_vsemirnym_dnem_mototsiklista"
+    },
+    {
+      "name": "День селфи",
+      "decl_name": "днём селфи",
+      "congrat": "/sara_s_dnem_selfi"
+    },
+    {
+      "name": "Международный день скейтбординга",
+      "decl_name": "международным днём скейтбординга",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_skejtbordinga"
+    }
+  ],
+  "2021.06.22": [
+    {
+      "name": "День памяти и скорби — день начала Великой Отечественной войны",
+      "decl_name": "днём памяти и скорби — днём начала великой отечественной войны",
+      "congrat": "/sara_s_dnem_pamjati_i_skorbi__dnem_nachala_velikoj_otechestvennoj_vojny"
+    }
+  ],
+  "2021.06.23": [
+    {
+      "name": "Международный Олимпийский день",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "День балалайки — международный праздник музыкантов-народников",
+      "decl_name": "днём балалайки — международный праздник музыкантов-народников",
+      "congrat": "/sara_s_dnem_balalajki__mezhdunarodnyj_prazdnik_muzykantovnarodnikov"
+    }
+  ],
+  "2021.06.24": [
+    {
+      "name": "День Республики Чувашия",
+      "decl_name": "днём республики чувашия",
+      "congrat": "/sara_s_dnem_respubliki_chuvashija"
+    },
+    {
+      "name": "День независимости Шотландии",
+      "decl_name": "днём независимости шотландии",
+      "congrat": "/sara_s_dnem_nezavisimosti_shotlandii"
+    }
+  ],
+  "2021.06.25": [
+    {
+      "name": "День моряка",
+      "decl_name": "днём моряка",
+      "congrat": "/sara_s_dnem_morjaka"
+    },
+    {
+      "name": "День дружбы и единения славян",
+      "decl_name": "днём дружбы и единения славян",
+      "congrat": "/sara_s_dnem_druzhby_i_edinenija_slavjan"
+    }
+  ],
+  "2021.06.26": [
+    {
+      "name": "Международный день в поддержку жертв пыток",
+      "decl_name": "международным днём в поддержку жертв пыток",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_v_podderzhku_zhertv_pytok"
+    },
+    {
+      "name": "День изобретателя и рационализатора в России",
+      "decl_name": "днём изобретателя и рационализатора в россии",
+      "congrat": "/sara_s_dnem_izobretatelja_i_ratsionalizatora_v_rossii"
+    }
+  ],
+  "2021.06.27": [
+    {
+      "name": "День молодежи России",
+      "decl_name": "днём молодежи россии",
+      "congrat": "/sara_s_dnem_molodezhi_rossii"
+    },
+    {
+      "name": "Всемирный день рыболовства",
+      "decl_name": "всемирным днём рыболовства",
+      "congrat": "/sara_s_vsemirnym_dnem_rybolovstva"
+    },
+    {
+      "name": "День молодежи в Беларуси",
+      "decl_name": "днём молодежи в беларуси",
+      "congrat": "/sara_s_dnem_molodezhi_v_belarusi"
+    }
+  ],
+  "2021.06.29": [
+    {
+      "name": "День партизан и подпольщиков в России",
+      "decl_name": "днём партизан и подпольщиков в россии",
+      "congrat": "/sara_s_dnem_partizan_i_podpolschikov_v_rossii"
+    }
+  ],
+  "2021.06.30": [
+    {
+      "name": "Международный день астероида",
+      "decl_name": "международным днём астероида",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_asteroida"
+    }
+  ],
+  "2021.07.01": [
+    {
+      "name": "День ветеранов боевых действий",
+      "decl_name": "днём ветеранов боевых действий",
+      "congrat": "/sara_s_dnem_veteranov_boevyh_dejstvij"
+    }
+  ],
+  "2021.07.02": [
+    {
+      "name": "Всемирный день НЛО",
+      "decl_name": "всемирным днём нло",
+      "congrat": "/sara_s_vsemirnym_dnem_nlo"
+    }
+  ],
+  "2021.07.03": [
+    {
+      "name": "Международный день Днепра",
+      "decl_name": "международным днём днепра",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_dnepra"
+    },
+    {
+      "name": "День Независимости Республики Беларусь (День Республики)",
+      "decl_name": "днём независимости республики беларусь (днём республики)",
+      "congrat": "/sara_s_dnem_nezavisimosti_respubliki_belarus_dnem_respubliki"
+    }
+  ],
+  "2021.07.04": [
+    {
+      "name": "День работников морского и речного флота",
+      "decl_name": "днём работников морского и речного флота",
+      "congrat": "/sara_s_dnem_rabotnikov_morskogo_i_rechnogo_flota"
+    },
+    {
+      "name": "День независимости США",
+      "decl_name": "днём независимости сша",
+      "congrat": "/sara_s_dnem_nezavisimosti_ssha"
+    }
+  ],
+  "2021.07.06": [
+    {
+      "name": "Всемирный день поцелуя",
+      "decl_name": "всемирным днём поцелуя",
+      "congrat": "/sara_s_vsemirnym_dnem_potseluja"
+    }
+  ],
+  "2021.07.07": [
+    {
+      "name": "Иван Купала",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.07.08": [
+    {
+      "name": "Всероссийский день семьи, любви и верности",
+      "decl_name": "всероссийским днём семьи, любви и верности",
+      "congrat": "/sara_s_vserossijskim_dnem_semi_ljubvi_i_vernosti"
+    }
+  ],
+  "2021.07.11": [
+    {
+      "name": "Всемирный день шоколада",
+      "decl_name": "всемирным днём шоколада",
+      "congrat": "/sara_s_vsemirnym_dnem_shokolada"
+    },
+    {
+      "name": "День российской почты",
+      "decl_name": "днём российской почты",
+      "congrat": "/sara_s_dnem_rossijskoj_pochty"
+    },
+    {
+      "name": "Всемирный день народонаселения",
+      "decl_name": "всемирным днём народонаселения",
+      "congrat": "/sara_s_vsemirnym_dnem_narodonaselenija"
+    },
+    {
+      "name": "День рыбака",
+      "decl_name": "днём рыбака",
+      "congrat": "/sara_s_dnem_rybaka"
+    },
+    {
+      "name": "День действий против рыбной ловли в России",
+      "decl_name": "днём действий против рыбной ловли в россии",
+      "congrat": "/sara_s_dnem_dejstvij_protiv_rybnoj_lovli_v_rossii"
+    }
+  ],
+  "2021.07.12": [
+    {
+      "name": "Всемирный день бортпроводника гражданской авиации",
+      "decl_name": "всемирным днём бортпроводника гражданской авиации",
+      "congrat": "/sara_s_vsemirnym_dnem_bortprovodnika_grazhdanskoj_aviatsii"
+    }
+  ],
+  "2021.07.17": [
+    {
+      "name": "Всемирный день эмоджи (эмодзи)",
+      "decl_name": "всемирным днём эмоджи (эмодзи)",
+      "congrat": "/sara_s_vsemirnym_dnem_emodzhi_emodzi"
+    }
+  ],
+  "2021.07.18": [
+    {
+      "name": "День металлурга",
+      "decl_name": "днём металлурга",
+      "congrat": "/sara_s_dnem_metallurga"
+    },
+    {
+      "name": "Международный день Нельсона Манделы",
+      "decl_name": "международным днём нельсона манделы",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_nelsona_mandely"
+    }
+  ],
+  "2021.07.20": [
+    {
+      "name": "Международный день шахмат",
+      "decl_name": "международным днём шахмат",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_shahmat"
+    },
+    {
+      "name": "Международный День Торта",
+      "decl_name": "международным днём торта",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_torta"
+    }
+  ],
+  "2021.07.21": [
+    {
+      "name": "Зажинки",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.07.23": [
+    {
+      "name": "Всемирный день китов и дельфинов",
+      "decl_name": "всемирным днём китов и дельфинов",
+      "congrat": "/sara_s_vsemirnym_dnem_kitov_i_delfinov"
+    }
+  ],
+  "2021.07.24": [
+    {
+      "name": "День любви — Ту бе-Ав (Пятнадцатое Ава)",
+      "decl_name": "днём любви — ту бе-ав (пятнадцатое ава)",
+      "congrat": "/sara_s_dnem_ljubvi__tu_beav_pjatnadtsatoe_ava"
+    }
+  ],
+  "2021.07.25": [
+    {
+      "name": "День коктейля «Писко сур» в Перу",
+      "decl_name": "днём коктейля «писко сур» в перу",
+      "congrat": "/sara_s_dnem_koktejlja_pisko_sur_v_peru"
+    }
+  ],
+  "2021.07.26": [
+    {
+      "name": "День эсперанто",
+      "decl_name": "днём эсперанто",
+      "congrat": "/sara_s_dnem_esperanto"
+    }
+  ],
+  "2021.07.27": [
+    {
+      "name": "День сони в Финляндии",
+      "decl_name": "днём сони в финляндии",
+      "congrat": "/sara_s_dnem_soni_v_finljandii"
+    }
+  ],
+  "2021.07.28": [
+    {
+      "name": "Всемирный день борьбы с гепатитом",
+      "decl_name": "всемирным днём борьбы с гепатитом",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_gepatitom"
+    }
+  ],
+  "2021.07.29": [
+    {
+      "name": "Международный день тигра",
+      "decl_name": "международным днём тигра",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_tigra"
+    }
+  ],
+  "2021.07.30": [
+    {
+      "name": "Международный день дружбы",
+      "decl_name": "международным днём дружбы",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_druzhby"
+    },
+    {
+      "name": "День системного администратора",
+      "decl_name": "днём системного администратора",
+      "congrat": "/sara_s_dnem_sistemnogo_administratora"
+    }
+  ],
+  "2021.08.01": [
+    {
+      "name": "День железнодорожника",
+      "decl_name": "днём железнодорожника",
+      "congrat": "/sara_s_dnem_zheleznodorozhnika"
+    },
+    {
+      "name": "День конфедерации — национальный праздник в Швейцарии",
+      "decl_name": "днём конфедерации — национальный праздник в швейцарии",
+      "congrat": "/sara_s_dnem_konfederatsii__natsionalnyj_prazdnik_v_shvejtsarii"
+    }
+  ],
+  "2021.08.05": [
+    {
+      "name": "Международный день светофора",
+      "decl_name": "международным днём светофора",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_svetofora"
+    }
+  ],
+  "2021.08.06": [
+    {
+      "name": "Всемирный день борьбы за запрещение ядерного оружия",
+      "decl_name": "всемирным днём борьбы за запрещение ядерного оружия",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_za_zapreschenie_jadernogo_oruzhija"
+    },
+    {
+      "name": "Международный день пива",
+      "decl_name": "международным днём пива",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_piva"
+    },
+    {
+      "name": "Международный день «Врачи мира за мир»",
+      "decl_name": "международным днём «врачи мира за мир»",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_vrachi_mira_za_mir"
+    },
+    {
+      "name": "День независимости Ямайки",
+      "decl_name": "днём независимости ямайки",
+      "congrat": "/sara_s_dnem_nezavisimosti_jamajki"
+    }
+  ],
+  "2021.08.08": [
+    {
+      "name": "Всемирный день кошек",
+      "decl_name": "всемирным днём кошек",
+      "congrat": "/sara_s_vsemirnym_dnem_koshek"
+    },
+    {
+      "name": "День строителя",
+      "decl_name": "днём строителя",
+      "congrat": "/sara_s_dnem_stroitelja"
+    },
+    {
+      "name": "Международный день альпинизма (День альпиниста)",
+      "decl_name": "международным днём альпинизма (день альпиниста)",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_alpinizma_den_alpinista"
+    }
+  ],
+  "2021.08.09": [
+    {
+      "name": "Международный день коренных народов мира",
+      "decl_name": "международным днём коренных народов мира",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_korennyh_narodov_mira"
+    },
+    {
+      "name": "День победы русского флота под командованием Петра Первого над шведами у мыса Гангут",
+      "decl_name": "днём победы русского флота под командованием петра первого над шведами у мыса гангут",
+      "congrat": "/sara_s_dnem_pobedy_russkogo_flota_pod_komandovaniem_petra_pervogo_nad_shvedami_u_mysa_gangut"
+    }
+  ],
+  "2021.08.12": [
+    {
+      "name": "Международный день молодежи",
+      "decl_name": "международным днём молодежи",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_molodezhi"
+    }
+  ],
+  "2021.08.13": [
+    {
+      "name": "Международный день левшей",
+      "decl_name": "международным днём левшей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_levshej"
+    }
+  ],
+  "2021.08.14": [
+    {
+      "name": "День физкультурника в России",
+      "decl_name": "днём физкультурника в россии",
+      "congrat": "/sara_s_dnem_fizkulturnika_v_rossii"
+    }
+  ],
+  "2021.08.15": [
+    {
+      "name": "День археолога",
+      "decl_name": "днём археолога",
+      "congrat": "/sara_s_dnem_arheologa"
+    }
+  ],
+  "2021.08.16": [
+    {
+      "name": "День малинового варенья",
+      "decl_name": "днём малинового варенья",
+      "congrat": "/sara_s_dnem_malinovogo_varenja"
+    }
+  ],
+  "2021.08.19": [
+    {
+      "name": "Всемирный день фотографии",
+      "decl_name": "всемирным днём фотографии",
+      "congrat": "/sara_s_vsemirnym_dnem_fotografii"
+    },
+    {
+      "name": "День рождения русской тельняшки",
+      "decl_name": "днём рождения русской тельняшки",
+      "congrat": "/sara_s_dnem_rozhdenija_russkoj_telnjashki"
+    }
+  ],
+  "2021.08.20": [
+    {
+      "name": "День восстановления независимости Эстонии",
+      "decl_name": "днём восстановления независимости эстонии",
+      "congrat": "/sara_s_dnem_vosstanovlenija_nezavisimosti_estonii"
+    }
+  ],
+  "2021.08.21": [
+    {
+      "name": "Всемирный день бездомных животных",
+      "decl_name": "всемирным днём бездомных животных",
+      "congrat": "/sara_s_vsemirnym_dnem_bezdomnyh_zhivotnyh"
+    }
+  ],
+  "2021.08.22": [
+    {
+      "name": "День Государственного флага Российской Федерации",
+      "decl_name": "днём государственного флага российской федерации",
+      "congrat": "/sara_s_dnem_gosudarstvennogo_flaga_rossijskoj_federatsii"
+    },
+    {
+      "name": "День Республики Коми",
+      "decl_name": "днём республики коми",
+      "congrat": "/sara_s_dnem_respubliki_komi"
+    }
+  ],
+  "2021.08.23": [
+    {
+      "name": "День разгрома советскими войсками немецко-фашистских войск в Курской битве",
+      "decl_name": "днём разгрома советскими войсками немецко-фашистских войск в курской битве",
+      "congrat": "/sara_s_dnem_razgroma_sovetskimi_vojskami_nemetskofashistskih_vojsk_v_kurskoj_bitve"
+    },
+    {
+      "name": "Международный день памяти о работорговле и ее ликвидации",
+      "decl_name": "международным днём памяти о работорговле и ее ликвидации",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_pamjati_o_rabotorgovle_i_ee_likvidatsii"
+    }
+  ],
+  "2021.08.24": [
+    {
+      "name": "День независимости Украины",
+      "decl_name": "днём независимости украины",
+      "congrat": "/sara_s_dnem_nezavisimosti_ukrainy"
+    }
+  ],
+  "2021.08.27": [
+    {
+      "name": "День российского кино",
+      "decl_name": "днём российского кино",
+      "congrat": "/sara_s_dnem_rossijskogo_kino"
+    },
+    {
+      "name": "День независимости Республики Молдова",
+      "decl_name": "днём независимости республики молдова",
+      "congrat": "/sara_s_dnem_nezavisimosti_respubliki_moldova"
+    }
+  ],
+  "2021.08.29": [
+    {
+      "name": "День шахтера",
+      "decl_name": "днём шахтера",
+      "congrat": "/sara_s_dnem_shahtera"
+    }
+  ],
+  "2021.08.30": [
+    {
+      "name": "День Республики Татарстан",
+      "decl_name": "днём республики татарстан",
+      "congrat": "/sara_s_dnem_respubliki_tatarstan"
+    }
+  ],
+  "2021.08.31": [
+    {
+      "name": "День блога",
+      "decl_name": "днём блога",
+      "congrat": "/sara_s_dnem_bloga"
+    }
+  ],
+  "2021.09.01": [
+    {
+      "name": "День знаний",
+      "decl_name": "днём знаний",
+      "congrat": "/sara_s_dnem_znanij"
+    }
+  ],
+  "2021.09.03": [
+    {
+      "name": "День окончания Второй мировой войны",
+      "decl_name": "днём окончания второй мировой войны",
+      "congrat": "/sara_s_dnem_okonchanija_vtoroj_mirovoj_vojny"
+    }
+  ],
+  "2021.09.04": [
+    {
+      "name": "День специалиста по ядерному обеспечению России",
+      "decl_name": "днём специалиста по ядерному обеспечению россии",
+      "congrat": "/sara_s_dnem_spetsialista_po_jadernomu_obespecheniju_rossii"
+    },
+    {
+      "name": "Всемирный день бороды",
+      "decl_name": "всемирным днём бороды",
+      "congrat": "/sara_s_vsemirnym_dnem_borody"
+    }
+  ],
+  "2021.09.05": [
+    {
+      "name": "День нефтяника",
+      "decl_name": "днём нефтяника",
+      "congrat": "/sara_s_dnem_neftjanika"
+    },
+    {
+      "name": "День озера Байкал в России",
+      "decl_name": "днём озера байкал в россии",
+      "congrat": "/sara_s_dnem_ozera_bajkal_v_rossii"
+    },
+    {
+      "name": "День белорусской письменности",
+      "decl_name": "днём белорусской письменности",
+      "congrat": "/sara_s_dnem_belorusskoj_pismennosti"
+    }
+  ],
+  "2021.09.07": [
+    {
+      "name": "Всемирный день уничтожения военной игрушки",
+      "decl_name": "всемирным днём уничтожения военной игрушки",
+      "congrat": "/sara_s_vsemirnym_dnem_unichtozhenija_voennoj_igrushki"
+    },
+    {
+      "name": "День независимости Бразилии",
+      "decl_name": "днём независимости бразилии",
+      "congrat": "/sara_s_dnem_nezavisimosti_brazilii"
+    },
+    {
+      "name": "Рош аШана — еврейский Новый Год",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.09.08": [
+    {
+      "name": "Международный день грамотности",
+      "decl_name": "международным днём грамотности",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_gramotnosti"
+    },
+    {
+      "name": "День Бородинского сражения",
+      "decl_name": "днём бородинского сражения",
+      "congrat": "/sara_s_dnem_borodinskogo_srazhenija"
+    },
+    {
+      "name": "Международный день солидарности журналистов",
+      "decl_name": "международным днём солидарности журналистов",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_solidarnosti_zhurnalistov"
+    }
+  ],
+  "2021.09.09": [
+    {
+      "name": "Международный день красоты",
+      "decl_name": "международным днём красоты",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_krasoty"
+    },
+    {
+      "name": "День тестировщика в России",
+      "decl_name": "днём тестировщика в россии",
+      "congrat": "/sara_s_dnem_testirovschika_v_rossii"
+    },
+    {
+      "name": "День дизайнера-графика в России",
+      "decl_name": "днём дизайнера-графика в россии",
+      "congrat": "/sara_s_dnem_dizajneragrafika_v_rossii"
+    }
+  ],
+  "2021.09.10": [
+    {
+      "name": "Всемирный день предотвращения самоубийств",
+      "decl_name": "всемирным днём предотвращения самоубийств",
+      "congrat": "/sara_s_vsemirnym_dnem_predotvraschenija_samoubijstv"
+    }
+  ],
+  "2021.09.11": [
+    {
+      "name": "Всероссийский День трезвости",
+      "decl_name": "всероссийским днём трезвости",
+      "congrat": "/sara_s_vserossijskim_dnem_trezvosti"
+    },
+    {
+      "name": "Всемирный день оказания первой медицинской помощи",
+      "decl_name": "всемирным днём оказания первой медицинской помощи",
+      "congrat": "/sara_s_vsemirnym_dnem_okazanija_pervoj_meditsinskoj_pomoschi"
+    },
+    {
+      "name": "День граненого стакана",
+      "decl_name": "днём граненого стакана",
+      "congrat": "/sara_s_dnem_granenogo_stakana"
+    }
+  ],
+  "2021.09.12": [
+    {
+      "name": "Международный день вязания крючком",
+      "decl_name": "международным днём вязания крючком",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_vjazanija_krjuchkom"
+    },
+    {
+      "name": "День танкиста в России",
+      "decl_name": "днём танкиста в россии",
+      "congrat": "/sara_s_dnem_tankista_v_rossii"
+    },
+    {
+      "name": "Всемирный день журавля",
+      "decl_name": "всемирным днём журавля",
+      "congrat": "/sara_s_vsemirnym_dnem_zhuravlja"
+    },
+    {
+      "name": "День танкиста в Беларуси",
+      "decl_name": "днём танкиста в беларуси",
+      "congrat": "/sara_s_dnem_tankista_v_belarusi"
+    },
+    {
+      "name": "День памяти жертв фашизма",
+      "decl_name": "днём памяти жертв фашизма",
+      "congrat": "/sara_s_dnem_pamjati_zhertv_fashizma"
+    }
+  ],
+  "2021.09.13": [
+    {
+      "name": "День парикмахера в России",
+      "decl_name": "днём парикмахера в россии",
+      "congrat": "/sara_s_dnem_parikmahera_v_rossii"
+    },
+    {
+      "name": "День программиста в России",
+      "decl_name": "днём программиста в россии",
+      "congrat": "/sara_s_dnem_programmista_v_rossii"
+    }
+  ],
+  "2021.09.15": [
+    {
+      "name": "Международный день демократии",
+      "decl_name": "международным днём демократии",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_demokratii"
+    },
+    {
+      "name": "День единства народов Дагестана",
+      "decl_name": "днём единства народов дагестана",
+      "congrat": "/sara_s_dnem_edinstva_narodov_dagestana"
+    },
+    {
+      "name": "День библиотек Республики Беларусь",
+      "decl_name": "днём библиотек республики беларусь",
+      "congrat": "/sara_s_dnem_bibliotek_respubliki_belarus"
+    },
+    {
+      "name": "Российские дни леса",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.09.16": [
+    {
+      "name": "Международный день охраны озонового слоя",
+      "decl_name": "международным днём охраны озонового слоя",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_ohrany_ozonovogo_sloja"
+    },
+    {
+      "name": "День рождения Джульетты",
+      "decl_name": "днём рождения джульетты",
+      "congrat": "/sara_s_dnem_rozhdenija_dzhuletty"
+    },
+    {
+      "name": "День независимости Мексики",
+      "decl_name": "днём независимости мексики",
+      "congrat": "/sara_s_dnem_nezavisimosti_meksiki"
+    },
+    {
+      "name": "Йом Киппур (Йом Кипур)",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.09.18": [
+    {
+      "name": "День сока в России",
+      "decl_name": "днём сока в россии",
+      "congrat": "/sara_s_dnem_soka_v_rossii"
+    }
+  ],
+  "2021.09.19": [
+    {
+      "name": "День работников леса",
+      "decl_name": "днём работников леса",
+      "congrat": "/sara_s_dnem_rabotnikov_lesa"
+    },
+    {
+      "name": "День рождения «Смайлика»",
+      "decl_name": "днём рождения «смайлика»",
+      "congrat": "/sara_s_dnem_rozhdenija_smajlika"
+    },
+    {
+      "name": "Международный день подражания пиратам",
+      "decl_name": "международным днём подражания пиратам",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_podrazhanija_piratam"
+    }
+  ],
+  "2021.09.21": [
+    {
+      "name": "Международный день мира",
+      "decl_name": "международным днём мира",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_mira"
+    },
+    {
+      "name": "Всемирный день русского единения",
+      "decl_name": "всемирным днём русского единения",
+      "congrat": "/sara_s_vsemirnym_dnem_russkogo_edinenija"
+    },
+    {
+      "name": "День победы русских полков в Куликовской битве",
+      "decl_name": "днём победы русских полков в куликовской битве",
+      "congrat": "/sara_s_dnem_pobedy_russkih_polkov_v_kulikovskoj_bitve"
+    },
+    {
+      "name": "Суккот — Праздник кущей",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Международный день распространения информации о болезни Альцгеймера",
+      "decl_name": "международным днём распространения информации о болезни альцгеймера",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_rasprostranenija_informatsii_o_bolezni_altsgejmera"
+    },
+    {
+      "name": "Неделя Всемирной акции «Мы чистим мир» («Очистим планету от мусора»)",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.09.22": [
+    {
+      "name": "Всемирный день без автомобиля",
+      "decl_name": "всемирным днём без автомобиля",
+      "congrat": "/sara_s_vsemirnym_dnem_bez_avtomobilja"
+    },
+    {
+      "name": "Всемирный день защиты слонов",
+      "decl_name": "всемирным днём защиты слонов",
+      "congrat": "/sara_s_vsemirnym_dnem_zaschity_slonov"
+    },
+    {
+      "name": "День независимости Болгарии",
+      "decl_name": "днём независимости болгарии",
+      "congrat": "/sara_s_dnem_nezavisimosti_bolgarii"
+    }
+  ],
+  "2021.09.24": [
+    {
+      "name": "Международный день караванщика",
+      "decl_name": "международным днём караванщика",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_karavanschika"
+    },
+    {
+      "name": "День Государственного герба и Государственного флага Республики Крым",
+      "decl_name": "днём государственного герба и государственного флага республики крым",
+      "congrat": "/sara_s_dnem_gosudarstvennogo_gerba_i_gosudarstvennogo_flaga_respubliki_krym"
+    }
+  ],
+  "2021.09.25": [
+    {
+      "name": "Национальный день комиксов в США",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.09.26": [
+    {
+      "name": "Европейский день языков",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Международный день глухих",
+      "decl_name": "международным днём глухих",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_gluhih"
+    },
+    {
+      "name": "Всемирный день контрацепции",
+      "decl_name": "всемирным днём контрацепции",
+      "congrat": "/sara_s_vsemirnym_dnem_kontratseptsii"
+    },
+    {
+      "name": "День машиностроителя",
+      "decl_name": "днём машиностроителя",
+      "congrat": "/sara_s_dnem_mashinostroitelja"
+    },
+    {
+      "name": "День тигра на Дальнем Востоке",
+      "decl_name": "днём тигра на дальнем востоке",
+      "congrat": "/sara_s_dnem_tigra_na_dalnem_vostoke"
+    }
+  ],
+  "2021.09.27": [
+    {
+      "name": "Всемирный день туризма",
+      "decl_name": "всемирным днём туризма",
+      "congrat": "/sara_s_vsemirnym_dnem_turizma"
+    }
+  ],
+  "2021.09.28": [
+    {
+      "name": "День Деловой книги в России",
+      "decl_name": "днём деловой книги в россии",
+      "congrat": "/sara_s_dnem_delovoj_knigi_v_rossii"
+    },
+    {
+      "name": "День работника атомной промышленности в России",
+      "decl_name": "днём работника атомной промышленности в россии",
+      "congrat": "/sara_s_dnem_rabotnika_atomnoj_promyshlennosti_v_rossii"
+    },
+    {
+      "name": "Всемирный день борьбы против бешенства",
+      "decl_name": "всемирным днём борьбы против бешенства",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_protiv_beshenstva"
+    },
+    {
+      "name": "Шмини Ацерет и Симхат Тора",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.09.29": [
+    {
+      "name": "День отоларинголога",
+      "decl_name": "днём отоларинголога",
+      "congrat": "/sara_s_dnem_otolaringologa"
+    }
+  ],
+  "2021.09.30": [
+    {
+      "name": "Международный день перевода",
+      "decl_name": "международным днём перевода",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_perevoda"
+    },
+    {
+      "name": "Всемирный день моря",
+      "decl_name": "всемирным днём моря",
+      "congrat": "/sara_s_vsemirnym_dnem_morja"
+    },
+    {
+      "name": "День интернета в России",
+      "decl_name": "днём интернета в россии",
+      "congrat": "/sara_s_dnem_interneta_v_rossii"
+    }
+  ],
+  "2021.10.01": [
+    {
+      "name": "Международный день пожилых людей",
+      "decl_name": "международным днём пожилых людей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_pozhilyh_ljudej"
+    },
+    {
+      "name": "Всемирный день улыбки",
+      "decl_name": "всемирным днём улыбки",
+      "congrat": "/sara_s_vsemirnym_dnem_ulybki"
+    },
+    {
+      "name": "Международный день музыки",
+      "decl_name": "международным днём музыки",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_muzyki"
+    },
+    {
+      "name": "Всемирный день вегетарианства",
+      "decl_name": "всемирным днём вегетарианства",
+      "congrat": "/sara_s_vsemirnym_dnem_vegetarianstva"
+    },
+    {
+      "name": "День Сухопутных войск России",
+      "decl_name": "днём сухопутных войск россии",
+      "congrat": "/sara_s_dnem_suhoputnyh_vojsk_rossii"
+    },
+    {
+      "name": "День независимости Нигерии",
+      "decl_name": "днём независимости нигерии",
+      "congrat": "/sara_s_dnem_nezavisimosti_nigerii"
+    }
+  ],
+  "2021.10.02": [
+    {
+      "name": "Международный день ненасилия",
+      "decl_name": "международным днём ненасилия",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_nenasilija"
+    },
+    {
+      "name": "Международный день социального педагога",
+      "decl_name": "международным днём социального педагога",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_sotsialnogo_pedagoga"
+    }
+  ],
+  "2021.10.03": [
+    {
+      "name": "День учителя",
+      "decl_name": "днём учителя",
+      "congrat": "/sara_s_dnem_uchitelja"
+    },
+    {
+      "name": "День ОМОН в России",
+      "decl_name": "днём омон в россии",
+      "congrat": "/sara_s_dnem_omon_v_rossii"
+    }
+  ],
+  "2021.10.04": [
+    {
+      "name": "Международный день врача",
+      "decl_name": "международным днём врача",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_vracha"
+    },
+    {
+      "name": "День Космических войск России",
+      "decl_name": "днём космических войск россии",
+      "congrat": "/sara_s_dnem_kosmicheskih_vojsk_rossii"
+    },
+    {
+      "name": "Всемирный день архитектуры",
+      "decl_name": "всемирным днём архитектуры",
+      "congrat": "/sara_s_vsemirnym_dnem_arhitektury"
+    },
+    {
+      "name": "Всемирный день Хабитат (Всемирный день жилища)",
+      "decl_name": "всемирным днём хабитат (всемирным днём жилища)",
+      "congrat": "/sara_s_vsemirnym_dnem_habitat_vsemirnym_dnem_zhilischa"
+    },
+    {
+      "name": "Всемирный день животных",
+      "decl_name": "всемирным днём животных",
+      "congrat": "/sara_s_vsemirnym_dnem_zhivotnyh"
+    },
+    {
+      "name": "Всемирная неделя космоса",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.10.05": [
+    {
+      "name": "День работников уголовного розыска России",
+      "decl_name": "днём работников уголовного розыска россии",
+      "congrat": "/sara_s_dnem_rabotnikov_ugolovnogo_rozyska_rossii"
+    },
+    {
+      "name": "День образования Республики Адыгея",
+      "decl_name": "днём образования республики адыгея",
+      "congrat": "/sara_s_dnem_obrazovanija_respubliki_adygeja"
+    }
+  ],
+  "2021.10.06": [
+    {
+      "name": "Всемирный день охраны мест обитаний",
+      "decl_name": "всемирным днём охраны мест обитаний",
+      "congrat": "/sara_s_vsemirnym_dnem_ohrany_mest_obitanij"
+    }
+  ],
+  "2021.10.08": [
+    {
+      "name": "Всемирный день яйца",
+      "decl_name": "всемирным днём яйца",
+      "congrat": "/sara_s_vsemirnym_dnem_jajtsa"
+    },
+    {
+      "name": "День независимости Хорватии",
+      "decl_name": "днём независимости хорватии",
+      "congrat": "/sara_s_dnem_nezavisimosti_horvatii"
+    }
+  ],
+  "2021.10.09": [
+    {
+      "name": "Всемирный день почты",
+      "decl_name": "всемирным днём почты",
+      "congrat": "/sara_s_vsemirnym_dnem_pochty"
+    }
+  ],
+  "2021.10.10": [
+    {
+      "name": "Всемирный день психического здоровья",
+      "decl_name": "всемирным днём психического здоровья",
+      "congrat": "/sara_s_vsemirnym_dnem_psihicheskogo_zdorovja"
+    }
+  ],
+  "2021.10.11": [
+    {
+      "name": "Международный день девочек",
+      "decl_name": "международным днём девочек",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_devochek"
+    },
+    {
+      "name": "День Республики Башкортостан",
+      "decl_name": "днём республики башкортостан",
+      "congrat": "/sara_s_dnem_respubliki_bashkortostan"
+    }
+  ],
+  "2021.10.12": [
+    {
+      "name": "Всемирный день борьбы с артритом",
+      "decl_name": "всемирным днём борьбы с артритом",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_artritom"
+    }
+  ],
+  "2021.10.14": [
+    {
+      "name": "День матери в Беларуси",
+      "decl_name": "днём матери в беларуси",
+      "congrat": "/sara_s_dnem_materi_v_belarusi"
+    },
+    {
+      "name": "Всемирный день стандартов",
+      "decl_name": "всемирным днём стандартов",
+      "congrat": "/sara_s_vsemirnym_dnem_standartov"
+    }
+  ],
+  "2021.10.15": [
+    {
+      "name": "Международный день белой трости",
+      "decl_name": "международным днём белой трости",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_beloj_trosti"
+    },
+    {
+      "name": "Всемирный день мытья рук",
+      "decl_name": "всемирным днём мытья рук",
+      "congrat": "/sara_s_vsemirnym_dnem_mytja_ruk"
+    },
+    {
+      "name": "Международный день сельских женщин",
+      "decl_name": "международным днём сельских женщин",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_selskih_zhenschin"
+    }
+  ],
+  "2021.10.16": [
+    {
+      "name": "Всемирный день хлеба",
+      "decl_name": "всемирным днём хлеба",
+      "congrat": "/sara_s_vsemirnym_dnem_hleba"
+    },
+    {
+      "name": "День Шефа (День Босса)",
+      "decl_name": "днём шефа (днём босса)",
+      "congrat": "/sara_s_dnem_shefa_dnem_bossa"
+    },
+    {
+      "name": "Всемирный день анестезии (День анестезиолога-реаниматолога)",
+      "decl_name": "всемирным днём анестезии (день анестезиолога-реаниматолога)",
+      "congrat": "/sara_s_vsemirnym_dnem_anestezii_den_anesteziologareanimatologa"
+    }
+  ],
+  "2021.10.18": [
+    {
+      "name": "День галстука",
+      "decl_name": "днём галстука",
+      "congrat": "/sara_s_dnem_galstuka"
+    }
+  ],
+  "2021.10.20": [
+    {
+      "name": "Международный день поваров",
+      "decl_name": "международным днём поваров",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_povarov"
+    },
+    {
+      "name": "Международный день авиадиспетчера",
+      "decl_name": "международным днём авиадиспетчера",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_aviadispetchera"
+    },
+    {
+      "name": "День Приморского края",
+      "decl_name": "днём приморского края",
+      "congrat": "/sara_s_dnem_primorskogo_kraja"
+    },
+    {
+      "name": "Всемирный день борьбы с остеопорозом",
+      "decl_name": "всемирным днём борьбы с остеопорозом",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_osteoporozom"
+    }
+  ],
+  "2021.10.22": [
+    {
+      "name": "Международный день заикающихся людей",
+      "decl_name": "международным днём заикающихся людей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zaikajuschihsja_ljudej"
+    }
+  ],
+  "2021.10.24": [
+    {
+      "name": "День ООН",
+      "decl_name": "днём оон",
+      "congrat": "/sara_s_dnem_oon"
+    },
+    {
+      "name": "Международный день тёщи",
+      "decl_name": "международным днём тёщи",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_teschi"
+    }
+  ],
+  "2021.10.25": [
+    {
+      "name": "Международный день школьных библиотек",
+      "decl_name": "международным днём школьных библиотек",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_shkolnyh_bibliotek"
+    },
+    {
+      "name": "Праздник мельников Беларуси",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.10.28": [
+    {
+      "name": "Международный день анимации",
+      "decl_name": "международным днём анимации",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_animatsii"
+    },
+    {
+      "name": "Российский День без бумаги",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "День независимости Чехии",
+      "decl_name": "днём независимости чехии",
+      "congrat": "/sara_s_dnem_nezavisimosti_chehii"
+    }
+  ],
+  "2021.10.29": [
+    {
+      "name": "Всемирный день борьбы с инсультом",
+      "decl_name": "всемирным днём борьбы с инсультом",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_insultom"
+    }
+  ],
+  "2021.10.30": [
+    {
+      "name": "День инженера-механика в России",
+      "decl_name": "днём инженера-механика в россии",
+      "congrat": "/sara_s_dnem_inzheneramehanika_v_rossii"
+    },
+    {
+      "name": "Всероссийский день гимнастики",
+      "decl_name": "всероссийским днём гимнастики",
+      "congrat": "/sara_s_vserossijskim_dnem_gimnastiki"
+    }
+  ],
+  "2021.10.31": [
+    {
+      "name": "День автомобилиста",
+      "decl_name": "днём автомобилиста",
+      "congrat": "/sara_s_dnem_avtomobilista"
+    },
+    {
+      "name": "Всемирный день городов",
+      "decl_name": "всемирным днём городов",
+      "congrat": "/sara_s_vsemirnym_dnem_gorodov"
+    },
+    {
+      "name": "Международный день Черного моря",
+      "decl_name": "международным днём черного моря",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_chernogo_morja"
+    },
+    {
+      "name": "Международный день экономии",
+      "decl_name": "международным днём экономии",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_ekonomii"
+    }
+  ],
+  "2021.11.01": [
+    {
+      "name": "Международный день вегана",
+      "decl_name": "международным днём вегана",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_vegana"
+    }
+  ],
+  "2021.11.02": [
+    {
+      "name": "День памяти в Беларуси",
+      "decl_name": "днём памяти в беларуси",
+      "congrat": "/sara_s_dnem_pamjati_v_belarusi"
+    }
+  ],
+  "2021.11.04": [
+    {
+      "name": "День народного единства России",
+      "decl_name": "днём народного единства россии",
+      "congrat": "/sara_s_dnem_narodnogo_edinstva_rossii"
+    },
+    {
+      "name": "Фестиваль уличной культуры #ЖИЗНЬВЦВЕТЕ в Тольятти",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.11.05": [
+    {
+      "name": "Всемирный день распространения информации о проблеме цунами",
+      "decl_name": "всемирным днём распространения информации о проблеме цунами",
+      "congrat": "/sara_s_vsemirnym_dnem_rasprostranenija_informatsii_o_probleme_tsunami"
+    }
+  ],
+  "2021.11.06": [
+    {
+      "name": "Всемирный день мужчин",
+      "decl_name": "всемирным днём мужчин",
+      "congrat": "/sara_s_vsemirnym_dnem_muzhchin"
+    }
+  ],
+  "2021.11.07": [
+    {
+      "name": "День Октябрьской революции 1917 года в России",
+      "decl_name": "днём октябрьской революции 1917 года в россии",
+      "congrat": "/sara_s_dnem_oktjabrskoj_revoljutsii_1917_goda_v_rossii"
+    }
+  ],
+  "2021.11.09": [
+    {
+      "name": "Международный день против фашизма, расизма и антисемитизма",
+      "decl_name": "международным днём против фашизма, расизма и антисемитизма",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_protiv_fashizma_rasizma_i_antisemitizma"
+    },
+    {
+      "name": "Международный день антиядерных акций",
+      "decl_name": "международным днём антиядерных акций",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_antijadernyh_aktsij"
+    }
+  ],
+  "2021.11.10": [
+    {
+      "name": "Всемирный день науки за мир и развитие",
+      "decl_name": "всемирным днём науки за мир и развитие",
+      "congrat": "/sara_s_vsemirnym_dnem_nauki_za_mir_i_razvitie"
+    },
+    {
+      "name": "Международный день бухгалтерии (День бухгалтера)",
+      "decl_name": "международным днём бухгалтерии (день бухгалтера)",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_buhgalterii_den_buhgaltera"
+    },
+    {
+      "name": "Всемирный день молодежи",
+      "decl_name": "всемирным днём молодежи",
+      "congrat": "/sara_s_vsemirnym_dnem_molodezhi"
+    }
+  ],
+  "2021.11.11": [
+    {
+      "name": "Всемирный день шопинга",
+      "decl_name": "всемирным днём шопинга",
+      "congrat": "/sara_s_vsemirnym_dnem_shopinga"
+    },
+    {
+      "name": "Международный день энергосбережения",
+      "decl_name": "международным днём энергосбережения",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_energosberezhenija"
+    },
+    {
+      "name": "Всемирный день качества",
+      "decl_name": "всемирным днём качества",
+      "congrat": "/sara_s_vsemirnym_dnem_kachestva"
+    },
+    {
+      "name": "День независимости Польши",
+      "decl_name": "днём независимости польши",
+      "congrat": "/sara_s_dnem_nezavisimosti_polshi"
+    },
+    {
+      "name": "Всемирный день юзабилити",
+      "decl_name": "всемирным днём юзабилити",
+      "congrat": "/sara_s_vsemirnym_dnem_juzabiliti"
+    },
+    {
+      "name": "День холостяка в Китае",
+      "decl_name": "днём холостяка в китае",
+      "congrat": "/sara_s_dnem_holostjaka_v_kitae"
+    },
+    {
+      "name": "День памяти (День перемирия)",
+      "decl_name": "днём памяти (днём перемирия)",
+      "congrat": "/sara_s_dnem_pamjati_dnem_peremirija"
+    }
+  ],
+  "2021.11.12": [
+    {
+      "name": "Синичкин день",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Всемирный день борьбы с пневмонией",
+      "decl_name": "всемирным днём борьбы с пневмонией",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_pnevmoniej"
+    }
+  ],
+  "2021.11.13": [
+    {
+      "name": "Всемирный день доброты",
+      "decl_name": "всемирным днём доброты",
+      "congrat": "/sara_s_vsemirnym_dnem_dobroty"
+    },
+    {
+      "name": "Международный день слепых",
+      "decl_name": "международным днём слепых",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_slepyh"
+    }
+  ],
+  "2021.11.14": [
+    {
+      "name": "Всемирный день борьбы с диабетом",
+      "decl_name": "всемирным днём борьбы с диабетом",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_s_diabetom"
+    },
+    {
+      "name": "Международный день логопеда",
+      "decl_name": "международным днём логопеда",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_logopeda"
+    },
+    {
+      "name": "День социолога в России",
+      "decl_name": "днём социолога в россии",
+      "congrat": "/sara_s_dnem_sotsiologa_v_rossii"
+    },
+    {
+      "name": "День кузнеца в Беларуси",
+      "decl_name": "днём кузнеца в беларуси",
+      "congrat": "/sara_s_dnem_kuznetsa_v_belarusi"
+    }
+  ],
+  "2021.11.15": [
+    {
+      "name": "День вторичной переработки",
+      "decl_name": "днём вторичной переработки",
+      "congrat": "/sara_s_dnem_vtorichnoj_pererabotki"
+    }
+  ],
+  "2021.11.16": [
+    {
+      "name": "Всероссийский день проектировщика",
+      "decl_name": "всероссийским днём проектировщика",
+      "congrat": "/sara_s_vserossijskim_dnem_proektirovschika"
+    }
+  ],
+  "2021.11.17": [
+    {
+      "name": "Международный день студентов",
+      "decl_name": "международным днём студентов",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_studentov"
+    },
+    {
+      "name": "День борьбы за свободу и демократию в Чехии",
+      "decl_name": "днём борьбы за свободу и демократию в чехии",
+      "congrat": "/sara_s_dnem_borby_za_svobodu_i_demokratiju_v_chehii"
+    },
+    {
+      "name": "День защиты черных котов в Италии",
+      "decl_name": "днём защиты черных котов в италии",
+      "congrat": "/sara_s_dnem_zaschity_chernyh_kotov_v_italii"
+    }
+  ],
+  "2021.11.18": [
+    {
+      "name": "День рождения Деда Мороза",
+      "decl_name": "днём рождения деда мороза",
+      "congrat": "/sara_s_dnem_rozhdenija_deda_moroza"
+    },
+    {
+      "name": "Всемирный день философии",
+      "decl_name": "всемирным днём философии",
+      "congrat": "/sara_s_vsemirnym_dnem_filosofii"
+    },
+    {
+      "name": "День независимости Латвии",
+      "decl_name": "днём независимости латвии",
+      "congrat": "/sara_s_dnem_nezavisimosti_latvii"
+    },
+    {
+      "name": "День отказа от курения",
+      "decl_name": "днём отказа от курения",
+      "congrat": "/sara_s_dnem_otkaza_ot_kurenija"
+    }
+  ],
+  "2021.11.19": [
+    {
+      "name": "Международный мужской день",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Всемирный день туалета",
+      "decl_name": "всемирным днём туалета",
+      "congrat": "/sara_s_vsemirnym_dnem_tualeta"
+    }
+  ],
+  "2021.11.20": [
+    {
+      "name": "Всемирный день ребенка",
+      "decl_name": "всемирным днём ребенка",
+      "congrat": "/sara_s_vsemirnym_dnem_rebenka"
+    }
+  ],
+  "2021.11.21": [
+    {
+      "name": "Всемирный день приветствий",
+      "decl_name": "всемирным днём приветствий",
+      "congrat": "/sara_s_vsemirnym_dnem_privetstvij"
+    },
+    {
+      "name": "Всемирный день телевидения",
+      "decl_name": "всемирным днём телевидения",
+      "congrat": "/sara_s_vsemirnym_dnem_televidenija"
+    },
+    {
+      "name": "День бухгалтера в России",
+      "decl_name": "днём бухгалтера в россии",
+      "congrat": "/sara_s_dnem_buhgaltera_v_rossii"
+    }
+  ],
+  "2021.11.22": [
+    {
+      "name": "День сыновей",
+      "decl_name": "днём сыновей",
+      "congrat": "/sara_s_dnem_synovej"
+    },
+    {
+      "name": "День психолога в России",
+      "decl_name": "днём психолога в россии",
+      "congrat": "/sara_s_dnem_psihologa_v_rossii"
+    }
+  ],
+  "2021.11.24": [
+    {
+      "name": "День моржа в России",
+      "decl_name": "днём моржа в россии",
+      "congrat": "/sara_s_dnem_morzha_v_rossii"
+    },
+    {
+      "name": "День друзей в США",
+      "decl_name": "днём друзей в сша",
+      "congrat": "/sara_s_dnem_druzej_v_ssha"
+    }
+  ],
+  "2021.11.26": [
+    {
+      "name": "Черная пятница",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Всемирный день информации",
+      "decl_name": "всемирным днём информации",
+      "congrat": "/sara_s_vsemirnym_dnem_informatsii"
+    },
+    {
+      "name": "Международный день сапожника",
+      "decl_name": "международным днём сапожника",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_sapozhnika"
+    }
+  ],
+  "2021.11.28": [
+    {
+      "name": "День матери в России",
+      "decl_name": "днём матери в россии",
+      "congrat": "/sara_s_dnem_materi_v_rossii"
+    },
+    {
+      "name": "День независимости в Албании",
+      "decl_name": "днём независимости в албании",
+      "congrat": "/sara_s_dnem_nezavisimosti_v_albanii"
+    },
+    {
+      "name": "Пилиповка в Беларуси",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.11.29": [
+    {
+      "name": "Киберпонедельник",
+      "decl_name": null,
+      "congrat": null
+    },
+    {
+      "name": "Ханука",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.11.30": [
+    {
+      "name": "Всемирный день домашних животных",
+      "decl_name": "всемирным днём домашних животных",
+      "congrat": "/sara_s_vsemirnym_dnem_domashnih_zhivotnyh"
+    },
+    {
+      "name": "Международный день защиты информации",
+      "decl_name": "международным днём защиты информации",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zaschity_informatsii"
+    }
+  ],
+  "2021.12.01": [
+    {
+      "name": "Всемирный день борьбы со СПИДом",
+      "decl_name": "всемирным днём борьбы со спидом",
+      "congrat": "/sara_s_vsemirnym_dnem_borby_so_spidom"
+    },
+    {
+      "name": "День восстановления независимости Португалии",
+      "decl_name": "днём восстановления независимости португалии",
+      "congrat": "/sara_s_dnem_vosstanovlenija_nezavisimosti_portugalii"
+    },
+    {
+      "name": "День самоуправления в Исландии",
+      "decl_name": "днём самоуправления в исландии",
+      "congrat": "/sara_s_dnem_samoupravlenija_v_islandii"
+    }
+  ],
+  "2021.12.02": [
+    {
+      "name": "День 2D-художников",
+      "decl_name": "днём 2d-художников",
+      "congrat": "/sara_s_dnem_2dhudozhnikov"
+    },
+    {
+      "name": "Национальный день шлепанцев (сланцев) в Новой Зеландии",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.12.03": [
+    {
+      "name": "Международный день инвалидов",
+      "decl_name": "международным днём инвалидов",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_invalidov"
+    },
+    {
+      "name": "День Неизвестного Солдата в России",
+      "decl_name": "днём неизвестного солдата в россии",
+      "congrat": "/sara_s_dnem_neizvestnogo_soldata_v_rossii"
+    },
+    {
+      "name": "Всемирный день компьютерной графики",
+      "decl_name": "всемирным днём компьютерной графики",
+      "congrat": "/sara_s_vsemirnym_dnem_kompjuternoj_grafiki"
+    },
+    {
+      "name": "Международный день борьбы с пестицидами",
+      "decl_name": "международным днём борьбы с пестицидами",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_borby_s_pestitsidami"
+    }
+  ],
+  "2021.12.04": [
+    {
+      "name": "День заказов подарков и написания писем Деду Морозу",
+      "decl_name": "днём заказов подарков и написания писем деду морозу",
+      "congrat": "/sara_s_dnem_zakazov_podarkov_i_napisanija_pisem_dedu_morozu"
+    },
+    {
+      "name": "День информатики в России",
+      "decl_name": "днём информатики в россии",
+      "congrat": "/sara_s_dnem_informatiki_v_rossii"
+    }
+  ],
+  "2021.12.05": [
+    {
+      "name": "День Пермского края",
+      "decl_name": "днём пермского края",
+      "congrat": "/sara_s_dnem_permskogo_kraja"
+    },
+    {
+      "name": "Международный день добровольцев",
+      "decl_name": "международным днём добровольцев",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_dobrovoltsev"
+    },
+    {
+      "name": "День ниндзя",
+      "decl_name": "днём ниндзя",
+      "congrat": "/sara_s_dnem_nindzja"
+    }
+  ],
+  "2021.12.06": [
+    {
+      "name": "День независимости Финляндии",
+      "decl_name": "днём независимости финляндии",
+      "congrat": "/sara_s_dnem_nezavisimosti_finljandii"
+    }
+  ],
+  "2021.12.08": [
+    {
+      "name": "Международный день художника",
+      "decl_name": "международным днём художника",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_hudozhnika"
+    }
+  ],
+  "2021.12.09": [
+    {
+      "name": "Международный день борьбы с коррупцией",
+      "decl_name": "международным днём борьбы с коррупцией",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_borby_s_korruptsiej"
+    }
+  ],
+  "2021.12.10": [
+    {
+      "name": "Международный день прав животных",
+      "decl_name": "международным днём прав животных",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_prav_zhivotnyh"
+    },
+    {
+      "name": "Всемирный день футбола",
+      "decl_name": "всемирным днём футбола",
+      "congrat": "/sara_s_vsemirnym_dnem_futbola"
+    }
+  ],
+  "2021.12.11": [
+    {
+      "name": "Международный день гор",
+      "decl_name": "международным днём гор",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_gor"
+    },
+    {
+      "name": "Международный день танго",
+      "decl_name": "международным днём танго",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_tango"
+    },
+    {
+      "name": "День памяти крымчаков и евреев Крыма – жертв нацизма",
+      "decl_name": "днём памяти крымчаков и евреев крыма – жертв нацизма",
+      "congrat": "/sara_s_dnem_pamjati_krymchakov_i_evreev_kryma__zhertv_natsizma"
+    }
+  ],
+  "2021.12.12": [
+    {
+      "name": "День Конституции Российской Федерации",
+      "decl_name": "днём конституции российской федерации",
+      "congrat": "/sara_s_dnem_konstitutsii_rossijskoj_federatsii"
+    }
+  ],
+  "2021.12.15": [
+    {
+      "name": "Международный день чая",
+      "decl_name": "международным днём чая",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_chaja"
+    }
+  ],
+  "2021.12.16": [
+    {
+      "name": "День независимости Казахстана",
+      "decl_name": "днём независимости казахстана",
+      "congrat": "/sara_s_dnem_nezavisimosti_kazahstana"
+    }
+  ],
+  "2021.12.17": [
+    {
+      "name": "День белорусского кино",
+      "decl_name": "днём белорусского кино",
+      "congrat": "/sara_s_dnem_belorusskogo_kino"
+    },
+    {
+      "name": "Международный день защиты секс-работников от насилия и жестокости",
+      "decl_name": "международным днём защиты секс-работников от насилия и жестокости",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_zaschity_seksrabotnikov_ot_nasilija_i_zhestokosti"
+    }
+  ],
+  "2021.12.18": [
+    {
+      "name": "Международный день мигранта",
+      "decl_name": "международным днём мигранта",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_migranta"
+    }
+  ],
+  "2021.12.19": [
+    {
+      "name": "Международный день помощи бедным",
+      "decl_name": "международным днём помощи бедным",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_pomoschi_bednym"
+    }
+  ],
+  "2021.12.20": [
+    {
+      "name": "День работника органов безопасности",
+      "decl_name": "днём работника органов безопасности",
+      "congrat": "/sara_s_dnem_rabotnika_organov_bezopasnosti"
+    },
+    {
+      "name": "Международный день солидарности людей",
+      "decl_name": "международным днём солидарности людей",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_solidarnosti_ljudej"
+    }
+  ],
+  "2021.12.25": [
+    {
+      "name": "Рождество Христово у западных христиан",
+      "decl_name": null,
+      "congrat": null
+    }
+  ],
+  "2021.12.26": [
+    {
+      "name": "День независимости и единства Словении",
+      "decl_name": "днём независимости и единства словении",
+      "congrat": "/sara_s_dnem_nezavisimosti_i_edinstva_slovenii"
+    }
+  ],
+  "2021.12.28": [
+    {
+      "name": "Международный день кино",
+      "decl_name": "международным днём кино",
+      "congrat": "/sara_s_mezhdunarodnym_dnem_kino"
+    }
+  ]
+}
