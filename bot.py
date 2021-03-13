@@ -1,9 +1,17 @@
+import asyncio
+import functools
 import itertools
 import json
 import logging
 import pymorphy2
 import random
 import re
+import signal
+import threading
+
+from congratulator import congrat
+
+from time import sleep
 
 from telegram import Update
 from telegram.ext import (
@@ -15,6 +23,8 @@ from telegram.ext import (
 )
 
 MORPHER = pymorphy2.MorphAnalyzer()
+
+EXIT = threading.Event()
 
 with open("secrets", "rb") as inp:
     SETTINGS = json.load(inp)
@@ -83,8 +93,9 @@ def handle_sara_text_msg(update: Update, context: CallbackContext) -> None:
         update.message.reply_text(maybe_tag)
 
 
-def main():
-    """Start the bot."""
+async def main():
+    loop = asyncio.get_running_loop()
+
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
@@ -103,11 +114,22 @@ def main():
     # Start the Bot
     updater.start_polling()
 
-    # Run the bot until you press Ctrl-C or the process receives SIGINT,
-    # SIGTERM or SIGABRT. This should be used most of the time, since
-    # start_polling() is non-blocking and will stop the bot gracefully.
-    updater.idle()
+    def stop(signame, loop):
+        updater.stop()
+        logging.info("got signal %s: exit" % signame)
+        loop.stop()
 
+    for signame in {'SIGINT', 'SIGTERM'}:
+        loop.add_signal_handler(
+            getattr(signal, signame),
+            functools.partial(stop, signame, loop))
+
+    bot = updater.bot
+
+    while True:
+        congrat(loop, bot)
+        await asyncio.sleep(10)
+    
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
