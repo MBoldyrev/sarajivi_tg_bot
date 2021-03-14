@@ -4,7 +4,6 @@ import logging
 import pytz
 import random
 
-from dateutil.tz import tzlocal
 from datetime import datetime, time, timedelta
 
 LAST_CONGRAT_DAY=None
